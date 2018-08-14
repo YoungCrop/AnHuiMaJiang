@@ -1,0 +1,7 @@
+{
+	"packageUrl" : "https://anhui-update.yongwuzhijing88.com:443/YwZj_2017/AnHui/update/1000139",
+	"remoteVersionUrl" : "https://anhui-update.yongwuzhijing88.com:443/YwZj_2017/AnHui/version.manifest",
+	"remoteManifestUrl" : "https://anhui-update.yongwuzhijing88.com:443/YwZj_2017/AnHui/project.manifest",
+	"version" : "1.0.139",
+	"engineVersion" : "Cocos2d-x v3.10"
+    }

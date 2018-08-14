@@ -1,0 +1,2449 @@
+{
+    "packageUrl" : "https://anhui-update.yongwuzhijing88.com:443/YwZj_2017/AnHui/update/1000139",
+    "remoteVersionUrl" : "https://anhui-update.yongwuzhijing88.com:443/YwZj_2017/AnHui/version.manifest",
+    "remoteManifestUrl" : "https://anhui-update.yongwuzhijing88.com:443/YwZj_2017/AnHui/project.manifest",
+    "version" : "1.0.139",
+    "engineVersion" : "Cocos2d-x v3.10",
+    "assets" : {    
+    },
+    "newassets" : {    
+		"res/Csd/Animation/AnimBoomLight.csb" : {
+			"md5" : "60c67df899155c532535a2319b140f6d"
+		}, 
+		"res/Csd/Animation/AnimBoomText.csb" : {
+			"md5" : "25a5abbd5f7a931b9f2820aa7c6ebd1f"
+		}, 
+		"res/Csd/Animation/AnimLobbyGirl.csb" : {
+			"md5" : "98537920132e9165a16234612850d0a3"
+		}, 
+		"res/Csd/Animation/AnimLobbyGirlCheck.csb" : {
+			"md5" : "0dca9c41bf29ec862a26f55ea03782b2"
+		}, 
+		"res/Csd/Animation/AnimOutMjtileSign.csb" : {
+			"md5" : "c113d8ec9629cc26e4c47b42f7ef1df6"
+		}, 
+		"res/Csd/Animation/AnimPokerAlarm.csb" : {
+			"md5" : "5341f0ec6463b5142ec37895a9e0e1f4"
+		}, 
+		"res/Csd/Animation/AnimPokerLight.csb" : {
+			"md5" : "bac5ab3ed82d93ae2856103d25d11c99"
+		}, 
+		"res/Csd/Animation/AnimVoicePlay.csb" : {
+			"md5" : "9b831bc83286f1d05c333c798594e027"
+		}, 
+		"res/Csd/Animation/AnimVoiceTip.csb" : {
+			"md5" : "179eee5ce3b9c6e4612242ad9a7c6d53"
+		}, 
+		"res/Csd/Animation/Emotions/AnimEmotion1_1.csb" : {
+			"md5" : "5812c6fffd6fd8faa86d4df3fcdcd42c"
+		}, 
+		"res/Csd/Animation/Emotions/AnimEmotion1_2.csb" : {
+			"md5" : "899de4cbe728e64d558bb1206ac5c5eb"
+		}, 
+		"res/Csd/Animation/Emotions/AnimEmotion2_1.csb" : {
+			"md5" : "6beb7aa1cf0fd11b29000b4a3ad7aab6"
+		}, 
+		"res/Csd/Animation/Emotions/AnimEmotion2_2.csb" : {
+			"md5" : "1d49fa24167874576cb0f3495faf3510"
+		}, 
+		"res/Csd/Animation/Emotions/AnimEmotion3_1.csb" : {
+			"md5" : "c366d343789e7e651cc936b38db3f60f"
+		}, 
+		"res/Csd/Animation/Emotions/AnimEmotion3_2.csb" : {
+			"md5" : "2fc45a69b64e06e7441ce6050a1b4aea"
+		}, 
+		"res/Csd/Animation/Emotions/AnimEmotion4_1.csb" : {
+			"md5" : "3fdd72af7c219e8268f6e87a30dc1c31"
+		}, 
+		"res/Csd/Animation/Emotions/AnimEmotion4_2.csb" : {
+			"md5" : "81e46bb889023d7c24f8e7c54315ca5b"
+		}, 
+		"res/Csd/Animation/Emotions/AnimEmotion5_1.csb" : {
+			"md5" : "cf743be91482270f9b397644b4e06b30"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing01.csb" : {
+			"md5" : "96d336901c88d2137b278d4853a2e181"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing02.csb" : {
+			"md5" : "642999a561fcc97f503e0f022ca18215"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing03.csb" : {
+			"md5" : "f6d6c8ec7cd649986be59baca683610f"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing04.csb" : {
+			"md5" : "3ae09e25f76de47764c504fbd394e32c"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing05.csb" : {
+			"md5" : "f76f14a314c47d8d16656c1d9905cecc"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing06.csb" : {
+			"md5" : "0b965260cd437c0d156e56e07544a429"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing07.csb" : {
+			"md5" : "7e556b847e4d174d376f632a7faae349"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing08.csb" : {
+			"md5" : "9cc72a56e7c646e030da1430cba7010f"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing09.csb" : {
+			"md5" : "9bbf5e478342ee0fb1da49e2cd5b1b35"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing10.csb" : {
+			"md5" : "46e3f6f6f9bc5fc9fbcb3c03463697ad"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing11.csb" : {
+			"md5" : "ce3a7a020bb116f0a4dcfed7d8c886e7"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing12.csb" : {
+			"md5" : "3f53c960077131a3f0dc9ea09f565949"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing13.csb" : {
+			"md5" : "5ff129948e296f88930a623e3639030e"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing14.csb" : {
+			"md5" : "bc8e83439d074b4712148b8f96eb09af"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing15.csb" : {
+			"md5" : "7491218f9b22d577a69a93d32fad5622"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing16.csb" : {
+			"md5" : "2500459a8ce32df26226fb06a2e171d3"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing17.csb" : {
+			"md5" : "7efa93cc1ea9a5d3f3ad80cd198c1cdb"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing18.csb" : {
+			"md5" : "414c3a3eca39d66ad0d5a670833e437c"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing19.csb" : {
+			"md5" : "57c516637dd4570ea92ea925ac77971b"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing20.csb" : {
+			"md5" : "12198e45dba09976ecfe0f2034ad5004"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing21.csb" : {
+			"md5" : "f7fb0469d2a8a1f1361b8a37b0853b02"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing22.csb" : {
+			"md5" : "c63d53323c57ef9485be95f5dd3aacbd"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing23.csb" : {
+			"md5" : "76f2eb93c5ca997dfdf9b591809766f1"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing24.csb" : {
+			"md5" : "9c28711b48891ad15702b28a34a478cf"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing25.csb" : {
+			"md5" : "4c1619fbc2ee9c957f94b5a97d22ed6d"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing26.csb" : {
+			"md5" : "db8da366374bc48458e12d34d77703a2"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing27.csb" : {
+			"md5" : "9733c9571d2738fef27a03ac8316d343"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing28.csb" : {
+			"md5" : "2279f357ea39e4913a84a7a2d9db15cf"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing29.csb" : {
+			"md5" : "20b710e709b3c12ece6e7a58d976f04b"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing30.csb" : {
+			"md5" : "8430f7f06d6fc44c56cf4158a6ff323e"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing31.csb" : {
+			"md5" : "2f715a4bbe0d4c8b89902a27808d79d5"
+		}, 
+		"res/Csd/Animation/Expression/biaoqing32.csb" : {
+			"md5" : "782a45cb84c4df88614751e0e5346dd2"
+		}, 
+		"res/Csd/Animation/MJ/AnimMJBuHua.csb" : {
+			"md5" : "bc9618268544724c312db38300dac876"
+		}, 
+		"res/Csd/Animation/MJ/AnimMJChi.csb" : {
+			"md5" : "ac5681b9f871a6403959921425f42eb5"
+		}, 
+		"res/Csd/Animation/MJ/AnimMJFanBao.csb" : {
+			"md5" : "303dfd5658abc02da2c08cc6fb818db7"
+		}, 
+		"res/Csd/Animation/MJ/AnimMJGang.csb" : {
+			"md5" : "a1d6f8bc9493a215cf4823b7b575edb1"
+		}, 
+		"res/Csd/Animation/MJ/AnimMJLiuJu.csb" : {
+			"md5" : "e6c55c58d7667c3b325f285c620e1b10"
+		}, 
+		"res/Csd/Animation/MJ/AnimMJPeng.csb" : {
+			"md5" : "5e784ff6618607ac2ad2331b474bcb66"
+		}, 
+		"res/Csd/Animation/MJ/AnimMJShunBao.csb" : {
+			"md5" : "a2bfe6aa064fa70c92c451f9f25d1c6c"
+		}, 
+		"res/Csd/Animation/MJ/AnimMJZiMo.csb" : {
+			"md5" : "1010bb454402578f8792b8bd4c8cf8c0"
+		}, 
+		"res/Csd/ICommon/DebugLog.csb" : {
+			"md5" : "9dd976498db8516f952595a7465c9448"
+		}, 
+		"res/Csd/ICommon/LoadingTips.csb" : {
+			"md5" : "926d87a160c3d91b2d13ab6aff1b1599"
+		}, 
+		"res/Csd/ICommon/NoticeTips.csb" : {
+			"md5" : "f769316de5f4a9d7a1cf49d40f933b7f"
+		}, 
+		"res/Csd/ICommon/NoticeTipsFCM.csb" : {
+			"md5" : "db6ddb89bd1f35418cae6c2473461c1b"
+		}, 
+		"res/Csd/ICommon/ServerDebug.csb" : {
+			"md5" : "a15778980c6bcb5b34e95a959716e9c4"
+		}, 
+		"res/Csd/ICommon/UIGMSelect.csb" : {
+			"md5" : "b56df21d4903d671cd2e8cb05b304d4b"
+		}, 
+		"res/Csd/ICommon/UIPeiPai.csb" : {
+			"md5" : "d5c2e0a789cabf9d3e43860e1c4c2788"
+		}, 
+		"res/Csd/ILobby/BigWinMatch/UIBigWinMatch.csb" : {
+			"md5" : "9a84c1cccfbc4c0aa0f732122b505229"
+		}, 
+		"res/Csd/ILobby/BigWinMatch/UIBigWinMatchRule.csb" : {
+			"md5" : "f11b9e1edcc61b7d592e2297c381a162"
+		}, 
+		"res/Csd/ILobby/BigWinMatch/UIBigWinRecord.csb" : {
+			"md5" : "8892e21925cdfe0a6bbe48f7f4487208"
+		}, 
+		"res/Csd/ILobby/BigWinMatch/UICertificate.csb" : {
+			"md5" : "3becae81b194d7370195af04e3762652"
+		}, 
+		"res/Csd/ILobby/Club/ClubCreate.csb" : {
+			"md5" : "6934f03d48453c678ae2e9cda161f287"
+		}, 
+		"res/Csd/ILobby/Club/ClubCreateRoom.csb" : {
+			"md5" : "b577bde9ae5fd08a136db7b27303a5e9"
+		}, 
+		"res/Csd/ILobby/Club/ClubCreateTip.csb" : {
+			"md5" : "9538f7abe61313ae21b503444b62a10c"
+		}, 
+		"res/Csd/ILobby/Club/ClubJoin.csb" : {
+			"md5" : "5cf0a5e56055f72d36d4fb83fe666645"
+		}, 
+		"res/Csd/ILobby/Club/ClubMyAll.csb" : {
+			"md5" : "2f1b8d24b06dbd9986ae183538856580"
+		}, 
+		"res/Csd/ILobby/Club/ClubMyOne.csb" : {
+			"md5" : "04378ef2390cf1451635e66b6f1e08a4"
+		}, 
+		"res/Csd/ILobby/Club/ClubRecord.csb" : {
+			"md5" : "96b80735895d0a7c84e7d1d7a52000c2"
+		}, 
+		"res/Csd/ILobby/Coin/NodeCoinBtnListUI.csb" : {
+			"md5" : "f213087d2df853b1e62fff4bc9d78933"
+		}, 
+		"res/Csd/ILobby/Coin/NodeCoinRuleUI.csb" : {
+			"md5" : "3c83eef22c563cf8e46a9d52c54e253d"
+		}, 
+		"res/Csd/ILobby/Coin/UICoinExchange.csb" : {
+			"md5" : "fc42f3159187cc675842ddb1b3640b06"
+		}, 
+		"res/Csd/ILobby/Coin/UICoinExchangeTip.csb" : {
+			"md5" : "5330d14b7a1458b6ee7f3f3da26635f6"
+		}, 
+		"res/Csd/ILobby/Coin/UICoinMain.csb" : {
+			"md5" : "287759e8a1dbc857d1691a2caa4a154f"
+		}, 
+		"res/Csd/ILobby/CreateRoom/CreateRoomMJ.csb" : {
+			"md5" : "4bb3ade5a06d2b8554f2c7931ba99dd5"
+		}, 
+		"res/Csd/ILobby/CreateRoom/CreateRoomPoker.csb" : {
+			"md5" : "ac9b7d3e03baafc1b73c5a6ae68f6d33"
+		}, 
+		"res/Csd/ILobby/CreateRoom/RuleDDZ.csb" : {
+			"md5" : "d869087c71db4a2cc789b49b59004bde"
+		}, 
+		"res/Csd/ILobby/CreateRoom/RuleMJAnQin.csb" : {
+			"md5" : "3f46258ff5eeba62e5d31a3f95a9f59a"
+		}, 
+		"res/Csd/ILobby/CreateRoom/RuleMJHuaiBei.csb" : {
+			"md5" : "e411ed64dd27ae4bf26fbcad56483cbf"
+		}, 
+		"res/Csd/ILobby/Item/ItemAgentRoom.csb" : {
+			"md5" : "abd3d62f0653e82941150c020f583959"
+		}, 
+		"res/Csd/ILobby/Item/ItemBigWinMatch.csb" : {
+			"md5" : "62c367d88cff18219e5bbdee58c9d427"
+		}, 
+		"res/Csd/ILobby/Item/ItemBigWinRecord.csb" : {
+			"md5" : "926d1c1d5e52378d44932f1f787791a2"
+		}, 
+		"res/Csd/ILobby/Item/ItemChatExp.csb" : {
+			"md5" : "b2877d0d5b3cd967c0fb3db99194fbdb"
+		}, 
+		"res/Csd/ILobby/Item/ItemChatSpeak.csb" : {
+			"md5" : "8528ca9b99e30a6f60bbd10b1429fd6f"
+		}, 
+		"res/Csd/ILobby/Item/ItemClubMyAll.csb" : {
+			"md5" : "3446e13791af7371deb28dbe127aac5f"
+		}, 
+		"res/Csd/ILobby/Item/ItemClubMyMember.csb" : {
+			"md5" : "9ba7e3c50438491b11c90b057010083f"
+		}, 
+		"res/Csd/ILobby/Item/ItemClubMyRoom.csb" : {
+			"md5" : "2461ddf05697f29c52a515b144ea7481"
+		}, 
+		"res/Csd/ILobby/Item/ItemClubRecord.csb" : {
+			"md5" : "f6fdd97786921cfd48157ebbc3da7150"
+		}, 
+		"res/Csd/ILobby/Item/ItemCoinExchange.csb" : {
+			"md5" : "6cdd695f79283539fc958f3b128ac40d"
+		}, 
+		"res/Csd/ILobby/Item/ItemCoinMain.csb" : {
+			"md5" : "ed36a1402051eef7c24eacf4dc2fa471"
+		}, 
+		"res/Csd/ILobby/Item/ItemMail.csb" : {
+			"md5" : "621eb86cfb3f376c98c7a5b65a05a3f3"
+		}, 
+		"res/Csd/ILobby/Item/ItemVideoPlay.csb" : {
+			"md5" : "964e6e120590452b7f5742f061595796"
+		}, 
+		"res/Csd/ILobby/Item/ItemVideoPlayDetail.csb" : {
+			"md5" : "242f3626e0c3f2e62f8c053995133128"
+		}, 
+		"res/Csd/ILobby/NodeMarquee.csb" : {
+			"md5" : "4b22a6942818620c2a24f7c70fc9f140"
+		}, 
+		"res/Csd/ILobby/UIActivity.csb" : {
+			"md5" : "fa38b26b0ba3a2ef8b3c244ab2216654"
+		}, 
+		"res/Csd/ILobby/UIAgentRoom.csb" : {
+			"md5" : "2a4c6a58395f7335b5430fa7fa69f4bc"
+		}, 
+		"res/Csd/ILobby/UIAgreement.csb" : {
+			"md5" : "dd76aad7381084e8a9b6029e59735780"
+		}, 
+		"res/Csd/ILobby/UIBuyCard.csb" : {
+			"md5" : "088de3be9887b53b7471943c5e761508"
+		}, 
+		"res/Csd/ILobby/UIHelp.csb" : {
+			"md5" : "e08af1c9d6075a08b91136de850c143b"
+		}, 
+		"res/Csd/ILobby/UIJoinRoom.csb" : {
+			"md5" : "48a80380a6bf395b3c4914d5d016721b"
+		}, 
+		"res/Csd/ILobby/UILobbyBottomTop.csb" : {
+			"md5" : "0d3aeabb9561963368bba9520e183c0a"
+		}, 
+		"res/Csd/ILobby/UIMessage.csb" : {
+			"md5" : "e1267d75dff8aac9203c7529803ace8e"
+		}, 
+		"res/Csd/ILobby/UISetting.csb" : {
+			"md5" : "bc8a2c7858abd5c0311cfe0e15002721"
+		}, 
+		"res/Csd/ILobby/UIShare.csb" : {
+			"md5" : "4a2b9fa995e942294926cd6602e8cf74"
+		}, 
+		"res/Csd/ILobby/UIShareAll.csb" : {
+			"md5" : "c1903c6939beab1d679874d9675878d0"
+		}, 
+		"res/Csd/ILobby/UIShop.csb" : {
+			"md5" : "ae3a90e6ecb67a01901f0c96e3fb36f1"
+		}, 
+		"res/Csd/ILobby/UIVideoPlay.csb" : {
+			"md5" : "06ef6237af264eac2b8b8c9d5eb7b218"
+		}, 
+		"res/Csd/ILobby/UIVideoPlayDetail.csb" : {
+			"md5" : "f8c1878d407bdc222bd2ed5dad93b544"
+		}, 
+		"res/Csd/IRoom/CommHead/NodeHeadUIBase.csb" : {
+			"md5" : "958e81df4ac95872f887277cc63b92f5"
+		}, 
+		"res/Csd/IRoom/CommHead/NodeHeadUIBottom.csb" : {
+			"md5" : "0b68e6846d3a98ffb27c62239ad1a38a"
+		}, 
+		"res/Csd/IRoom/CommHead/NodeHeadUIBottomPoker.csb" : {
+			"md5" : "0b68e6846d3a98ffb27c62239ad1a38a"
+		}, 
+		"res/Csd/IRoom/CommHead/NodeHeadUILeft.csb" : {
+			"md5" : "b8ab922db367b959b705219ccff2d1ce"
+		}, 
+		"res/Csd/IRoom/CommHead/NodeHeadUILeftPoker.csb" : {
+			"md5" : "b8ab922db367b959b705219ccff2d1ce"
+		}, 
+		"res/Csd/IRoom/CommHead/NodeHeadUIRight.csb" : {
+			"md5" : "88c0c76eed5c768dae773ec6c6416434"
+		}, 
+		"res/Csd/IRoom/CommHead/NodeHeadUIRightPoker.csb" : {
+			"md5" : "88c0c76eed5c768dae773ec6c6416434"
+		}, 
+		"res/Csd/IRoom/CommHead/NodeHeadUITop.csb" : {
+			"md5" : "a32123daccb27fb02843b25682b4a5be"
+		}, 
+		"res/Csd/IRoom/CommHead/UIHeadLayout.csb" : {
+			"md5" : "a7fd06907e1a3c106d74da15fe28b8ac"
+		}, 
+		"res/Csd/IRoom/CommHead/UIHeadLayoutPoker.csb" : {
+			"md5" : "5a2cb8d5df727a3cda1bd75b377edf4d"
+		}, 
+		"res/Csd/IRoom/Item/ItemFinalScore.csb" : {
+			"md5" : "e7f7dbcb7c6f88f47eaa38627685c0e8"
+		}, 
+		"res/Csd/IRoom/Item/ItemSettlementFinal.csb" : {
+			"md5" : "d89b6c82c41a1fb2bc34e6b03cef7cad"
+		}, 
+		"res/Csd/IRoom/Item/ItemSettlementOneRound.csb" : {
+			"md5" : "9cd4432af7ddd800605fb2f711d2e271"
+		}, 
+		"res/Csd/IRoom/RoomComm/NodeRuleUI.csb" : {
+			"md5" : "836f870c7869096afb60d9912ef3618b"
+		}, 
+		"res/Csd/IRoom/RoomComm/NodeSetBtnListUI.csb" : {
+			"md5" : "8ecd68d14bea34d8a849073371496a78"
+		}, 
+		"res/Csd/IRoom/RoomComm/NodeTopBarNew.csb" : {
+			"md5" : "095fec6191cb5b719fbcc1ebcd3459ca"
+		}, 
+		"res/Csd/IRoom/RoomComm/NodeTopUI.csb" : {
+			"md5" : "27109df0530f6d2eff22d59b91f3294e"
+		}, 
+		"res/Csd/IRoom/RoomComm/NodeTopUIPoker.csb" : {
+			"md5" : "a66b6aa91c5ca78b3d3e8b8cf6f5b7d8"
+		}, 
+		"res/Csd/IRoom/RoomComm/UIMJLayout.csb" : {
+			"md5" : "fc1181a07970fb4d110857b1882ef10b"
+		}, 
+		"res/Csd/IRoom/RoomComm/UIRoomInfoBottom.csb" : {
+			"md5" : "4cfd0d9358acd5c3b75ad2924884b782"
+		}, 
+		"res/Csd/IRoom/RoomComm/UIRoomInfoUpper.csb" : {
+			"md5" : "9b494ba1dac490ea34de60f7b1704c34"
+		}, 
+		"res/Csd/IRoom/Tiles/LayerTileItemBottom.csb" : {
+			"md5" : "065a9ce23c257a56a4e6787fb72a62c8"
+		}, 
+		"res/Csd/IRoom/Tiles/LayerTileOpen.csb" : {
+			"md5" : "76ebf2743a9f3cef16a37fff4a04b8d3"
+		}, 
+		"res/Csd/IRoom/Tiles/LayerTileStand.csb" : {
+			"md5" : "3b37f9c8270eb6ef7aa3774cf67a732b"
+		}, 
+		"res/Csd/IRoom/UIChat.csb" : {
+			"md5" : "f5fb672c841a56fb41281b6fbd8c4894"
+		}, 
+		"res/Csd/IRoom/UIChatNew.csb" : {
+			"md5" : "79fee7c7dedc3ae0a82d67d274bad5c9"
+		}, 
+		"res/Csd/IRoom/UIDissolution.csb" : {
+			"md5" : "e8388f8b026c36845f24c96e388e1992"
+		}, 
+		"res/Csd/IRoom/UIDistance.csb" : {
+			"md5" : "7b679dcb494927629f94edaf2e15682f"
+		}, 
+		"res/Csd/IRoom/UIPlayerInfoTips.csb" : {
+			"md5" : "514afe76b9e63bb050f7a7958ff4bf1d"
+		}, 
+		"res/Csd/IRoom/UISettlementFinal.csb" : {
+			"md5" : "ca7144548a7861884ea612a52dfa5352"
+		}, 
+		"res/Csd/IRoom/UISettlementOneRound.csb" : {
+			"md5" : "8889aa4e0f1e61bc2671c4fab1c861f6"
+		}, 
+		"res/Csd/Scene/SceneDDZ.csb" : {
+			"md5" : "654cced31dd65deffb4e5f23306dc65d"
+		}, 
+		"res/Csd/Scene/SceneDDZEx.csb" : {
+			"md5" : "ce5ec2ae54ea016b8787223135d7d46c"
+		}, 
+		"res/Csd/Scene/SceneLobby.csb" : {
+			"md5" : "3009769f941ebe39f240e47f6febf308"
+		}, 
+		"res/Csd/Scene/SceneLogin.csb" : {
+			"md5" : "20f292aaa3d76e7a88cce04394f9e4e1"
+		}, 
+		"res/Csd/Scene/SceneMJAnQing.csb" : {
+			"md5" : "07d8d1db5fba0c40a0e0dfc5d1c330c9"
+		}, 
+		"res/Csd/Scene/SceneMJAnQingNew.csb" : {
+			"md5" : "2505b06d8c3ad3f39b696e3d3503063e"
+		}, 
+		"res/Csd/Scene/SceneMJHuaiBeiNew.csb" : {
+			"md5" : "da9d05f5c165323575cc65f0f1b50887"
+		}, 
+		"res/Csd/Scene/SceneTDK.csb" : {
+			"md5" : "04d0182425226d1447b75e01512d50a9"
+		}, 
+		"res/Csd/Scene/SceneUpdate.csb" : {
+			"md5" : "3605c9cb02427fffb99b3adb674380fc"
+		}, 
+		"res/Csd/SubGame/BetTDK/UISettlementFinal.csb" : {
+			"md5" : "6c83c65854863e1211412486cb9349c8"
+		}, 
+		"res/Csd/SubGame/BetTDK/UISettlementOneRound.csb" : {
+			"md5" : "b7df83e56bd44f5f08444042d901c092"
+		}, 
+		"res/Csd/SubGame/MJAnQing/UIPlayback.csb" : {
+			"md5" : "0cb582f05eb4253a47f9fe4d2d76951e"
+		}, 
+		"res/Csd/SubGame/MJHuaiBei/UIBetMultipleEx.csb" : {
+			"md5" : "d5686c7c21506e014b3bc8a6b89fa6fd"
+		}, 
+		"res/Csd/SubGame/MJHuaiBei/UIPlayback.csb" : {
+			"md5" : "a171ebd4b50878b9af1c5f3bd216b70f"
+		}, 
+		"res/Csd/SubGame/PokerDDZ/UIPlaybackClassic.csb" : {
+			"md5" : "ab385aba3bb20e4918de4150cfa8725c"
+		}, 
+		"res/Csd/SubGame/PokerDDZ/UIPlaybackJiaoFen.csb" : {
+			"md5" : "f6dc41557aec18056ac591498deb5f7c"
+		}, 
+		"res/Csd/SubGame/PokerDDZ/UISettlementOneRound.csb" : {
+			"md5" : "358b602b5f65153cb0bef229d55ee7d6"
+		}, 
+		"res/Default/Button_Disable.png" : {
+			"md5" : "7b8162f32febdc456e4e131991a792c6"
+		}, 
+		"res/Default/Button_Normal.png" : {
+			"md5" : "20bcdc0c51263f0fe0b269511128f102"
+		}, 
+		"res/Default/Button_Press.png" : {
+			"md5" : "2c0341becfcfdccecddc021bb3b94bbe"
+		}, 
+		"res/Default/CheckBox_Disable.png" : {
+			"md5" : "c965e24c8041aafdb763a84ddce9e4b2"
+		}, 
+		"res/Default/CheckBoxNode_Disable.png" : {
+			"md5" : "670585e6cbeccf349a85c37bfa5acb19"
+		}, 
+		"res/Default/ImageFile.png" : {
+			"md5" : "65558f16ce306604da0612c8eeddd90a"
+		}, 
+		"res/Default/Sprite.png" : {
+			"md5" : "9cfffa5e8f2456bb1ecc2ce50dc42fc1"
+		}, 
+		"res/fonts/CountDownNumbers.png" : {
+			"md5" : "534213f2fb172f6d940f347a3366e6f3"
+		}, 
+		"res/fonts/DroidDefault.ttf" : {
+			"md5" : "37934a18b6feec57ca28dc0a95d61ee9"
+		}, 
+		"res/fonts/font_number_1.png" : {
+			"md5" : "33480b0458a63c8101180b286589822f"
+		}, 
+		"res/fonts/jiahao.png" : {
+			"md5" : "85cd8c8e2dd8948ce3ee29edaeaa1314"
+		}, 
+		"res/fonts/jianhao.png" : {
+			"md5" : "99e815dea056aeb7f95350e2deba2a91"
+		}, 
+		"res/fonts/number_blue_42.png" : {
+			"md5" : "2dd65ca0057033a9a8d184127c05250f"
+		}, 
+		"res/fonts/number_yellow232_35.png" : {
+			"md5" : "5e08b1562be50c3ebe6fd5a787259352"
+		}, 
+		"res/fonts/number_yellow671_83.png" : {
+			"md5" : "adee88d7431165ce067f455e41beb5c3"
+		}, 
+		"res/fonts/number_yellow_height34.fnt" : {
+			"md5" : "129cafcf6ee98942a8592e02b78dd41b"
+		}, 
+		"res/fonts/number_yellow_height34.png" : {
+			"md5" : "5fd94fc6d0bd8ebcc0b9a91acf8fafaf"
+		}, 
+		"res/fonts/WhiteNumbers.png" : {
+			"md5" : "6fcf24fd3fd026fdaa9f34851daf5c27"
+		}, 
+		"res/Image/BigImg/android_start_up_logo.png" : {
+			"md5" : "fd4efd0052877f76fe7e2634fb401259"
+		}, 
+		"res/Image/BigImg/bg_cloth_cloud.png" : {
+			"md5" : "7aae373705e2e6aeb19e7191f7c60b6d"
+		}, 
+		"res/Image/BigImg/bgZHJ.png" : {
+			"md5" : "fe6e10252d58f68c663a2f55809fb5d0"
+		}, 
+		"res/Image/BigImg/Coin_bg.png" : {
+			"md5" : "8d78fa78923c7fc27f870b421829677e"
+		}, 
+		"res/Image/BigImg/Coin_topglass.png" : {
+			"md5" : "58134c87951751f0eefb2c7d1d603fcf"
+		}, 
+		"res/Image/BigImg/comm_bg_tip.png" : {
+			"md5" : "e91f4535f51c8bd3c8d1cf7b7c5b83b3"
+		}, 
+		"res/Image/BigImg/ddzBoomLight1.png" : {
+			"md5" : "055e33e7805828c0683cc44f9b614138"
+		}, 
+		"res/Image/BigImg/ddzBoomLight2.png" : {
+			"md5" : "8b8221e5e7fab658c311d9e9953c0331"
+		}, 
+		"res/Image/BigImg/distance_bg.png" : {
+			"md5" : "cfb1973ad027c64a1a826d2b503c9149"
+		}, 
+		"res/Image/BigImg/frame_head.png" : {
+			"md5" : "c3c3d935c3014b55ead48487c4fc0861"
+		}, 
+		"res/Image/BigImg/game_bg1.png" : {
+			"md5" : "f261d363e723e82a572bc47a8ebe8bb7"
+		}, 
+		"res/Image/BigImg/game_bg2.png" : {
+			"md5" : "30c4ab5c49ccb5624af005dd73f435e2"
+		}, 
+		"res/Image/BigImg/game_bg3.png" : {
+			"md5" : "d7d73132be3ca3fa890f2c8f1977aded"
+		}, 
+		"res/Image/BigImg/game_bg4.png" : {
+			"md5" : "0257ea3b273f65a6084f719cf839fe03"
+		}, 
+		"res/Image/BigImg/game_bg_ddz1.png" : {
+			"md5" : "3c17c07b74b2126e2ca997b310ea9dd6"
+		}, 
+		"res/Image/BigImg/game_bg_ddz2.png" : {
+			"md5" : "259f5ec96bd8321b4c64c6ca165335ee"
+		}, 
+		"res/Image/BigImg/game_bg_ddz3.png" : {
+			"md5" : "6e7c8fd39a7cf475021f540521b051e5"
+		}, 
+		"res/Image/BigImg/game_bg_ddz4.png" : {
+			"md5" : "01e75441067fcb8462fcd68fb86c9cc3"
+		}, 
+		"res/Image/BigImg/kuang_bg1.png" : {
+			"md5" : "f66a6dae7fd6482e01f5c002224febe5"
+		}, 
+		"res/Image/BigImg/kuang_bg1_cloth.png" : {
+			"md5" : "11cbe53088e017e0a2a11a4b0daea126"
+		}, 
+		"res/Image/BigImg/kuang_bg2.png" : {
+			"md5" : "9ce6e444cf22880985e3076c1c4936ac"
+		}, 
+		"res/Image/BigImg/kuang_bg2_cloth.png" : {
+			"md5" : "2dbd8a2d8b5d7ffb6520be9d1aff4b6d"
+		}, 
+		"res/Image/BigImg/kuang_bg3.png" : {
+			"md5" : "27473994e51bf963a1483a485be19285"
+		}, 
+		"res/Image/BigImg/kuang_bg4.png" : {
+			"md5" : "89dbf57540ca81b347d70fff4a12c1a9"
+		}, 
+		"res/Image/BigImg/lobby_bg_bottom.png" : {
+			"md5" : "8427b3424c72e84e5992477595a03c74"
+		}, 
+		"res/Image/BigImg/lobby_bg_main.png" : {
+			"md5" : "ebd5749db2f27790dee09558283e59f4"
+		}, 
+		"res/Image/BigImg/lobby_bg_top.png" : {
+			"md5" : "31bea7b09e78569c6367c9d3d12d5a03"
+		}, 
+		"res/Image/BigImg/login_bg.png" : {
+			"md5" : "66e8f32964ace7119a37640d43a257ab"
+		}, 
+		"res/Image/BigImg/login_logo.png" : {
+			"md5" : "ef854a792d20f151bf92c8e0a53d1b45"
+		}, 
+		"res/Image/BigImg/login_logo_check.png" : {
+			"md5" : "e461b92a955e943c238c938421a1f4d9"
+		}, 
+		"res/Image/BigImg/RoomTopBG.png" : {
+			"md5" : "21b95eccef7cfa6a8c420163abe58984"
+		}, 
+		"res/Image/BigImg/tips_bg.png" : {
+			"md5" : "24027bcfbab628a615a3c4d58b603f05"
+		}, 
+		"res/Image/BigImg/WechatPYQShare.png" : {
+			"md5" : "cd46a7afcab027cde5956f05a95ce835"
+		}, 
+		"res/srcRes/sound/beat/prop_bomb.mp3" : {
+			"md5" : "ea946f77e8e2068bce977eb68e38060b"
+		}, 
+		"res/srcRes/sound/beat/prop_egg.mp3" : {
+			"md5" : "7b94ac6bc9b8ae7de1d84a69f18aeb00"
+		}, 
+		"res/srcRes/sound/beat/prop_flower.mp3" : {
+			"md5" : "c57395b94ffff0d2f83937a1a972037f"
+		}, 
+		"res/srcRes/sound/beat/prop_shoess.mp3" : {
+			"md5" : "59113a6486a269ee4c340c5e6fa55f4c"
+		}, 
+		"res/srcRes/sound/beat/prop_zan.mp3" : {
+			"md5" : "0c8b4f7069a39db79fc9f29189f2432a"
+		}, 
+		"res/srcRes/sound/bgm1.mp3" : {
+			"md5" : "b2d6088270f09eac4afaa146f8c6a3aa"
+		}, 
+		"res/srcRes/sound/bgm2.mp3" : {
+			"md5" : "e74bef5264c91734cda231b3339855fe"
+		}, 
+		"res/srcRes/sound/bgm3.mp3" : {
+			"md5" : "24baca5ea995a1791f4ec43e261533c3"
+		}, 
+		"res/srcRes/sound/common/audio_card_click.mp3" : {
+			"md5" : "ea3c54c8c5e60098e84a898b4672a11d"
+		}, 
+		"res/srcRes/sound/common/audio_card_out.mp3" : {
+			"md5" : "0a5b924234e989243552feb3b7babf9e"
+		}, 
+		"res/srcRes/sound/common/audio_deal_card.mp3" : {
+			"md5" : "e5c29ca9e862841b8929880d3b0e1a38"
+		}, 
+		"res/srcRes/sound/common/audio_enter.mp3" : {
+			"md5" : "626c12449c66654f19425ff758d10dfa"
+		}, 
+		"res/srcRes/sound/common/audio_left.mp3" : {
+			"md5" : "778b56affac4d0bbbcbab85ed4be8a80"
+		}, 
+		"res/srcRes/sound/common/audio_liuju.mp3" : {
+			"md5" : "ab1263d157f771e6047194de33ab42f9"
+		}, 
+		"res/srcRes/sound/common/audio_lose.mp3" : {
+			"md5" : "62b88d699d1576e8d085d81155f50239"
+		}, 
+		"res/srcRes/sound/common/audio_ready.mp3" : {
+			"md5" : "1fa669002ed5e5cd7386a901b70711cd"
+		}, 
+		"res/srcRes/sound/common/audio_win.mp3" : {
+			"md5" : "a5486e046b1b8ecaaacdf85a26366ba4"
+		}, 
+		"res/srcRes/sound/common/timeup_alarm.mp3" : {
+			"md5" : "1e59eccc7b38a932edb1643da2576946"
+		}, 
+		"res/srcRes/sound/ddz/man/1fen.mp3" : {
+			"md5" : "2633bd8df9f34a6d06e35be0790497ff"
+		}, 
+		"res/srcRes/sound/ddz/man/2fen.mp3" : {
+			"md5" : "f99268aa8d4fb195a20a80842c0609d7"
+		}, 
+		"res/srcRes/sound/ddz/man/3fen.mp3" : {
+			"md5" : "94afcc0c37bec242f05948f0147cb198"
+		}, 
+		"res/srcRes/sound/ddz/man/baojing1.mp3" : {
+			"md5" : "4f16b5f3c23a4c23bfec86c6fed42f6d"
+		}, 
+		"res/srcRes/sound/ddz/man/baojing2.mp3" : {
+			"md5" : "fa18cb74d11c8e5ae7d847680a92aa9f"
+		}, 
+		"res/srcRes/sound/ddz/man/buJiaBei.mp3" : {
+			"md5" : "fcc02e1737a7aabd32945e884e29ea39"
+		}, 
+		"res/srcRes/sound/ddz/man/buyao.mp3" : {
+			"md5" : "3953291fbf97e642b56f7b4df080d3e6"
+		}, 
+		"res/srcRes/sound/ddz/man/buyao1.mp3" : {
+			"md5" : "0c46f1162b989531b145d7e9a6f56125"
+		}, 
+		"res/srcRes/sound/ddz/man/buyao2.mp3" : {
+			"md5" : "fb22f1750c6a7f7fac7f37b8b0b59a38"
+		}, 
+		"res/srcRes/sound/ddz/man/buyao3.mp3" : {
+			"md5" : "1281d2b02fe2e114f579c01554fe9f7d"
+		}, 
+		"res/srcRes/sound/ddz/man/buyao4.mp3" : {
+			"md5" : "3953291fbf97e642b56f7b4df080d3e6"
+		}, 
+		"res/srcRes/sound/ddz/man/dani1.mp3" : {
+			"md5" : "d9bdf4029aea594b3b30a55da914cdf5"
+		}, 
+		"res/srcRes/sound/ddz/man/dani2.mp3" : {
+			"md5" : "8012a52c6277b6f5ae963c9ed4189a36"
+		}, 
+		"res/srcRes/sound/ddz/man/dani3.mp3" : {
+			"md5" : "da0c83e5f752ffd37c5fd66a8e348afa"
+		}, 
+		"res/srcRes/sound/ddz/man/dui1.mp3" : {
+			"md5" : "3b43fd43471064fa035bf46866d5362d"
+		}, 
+		"res/srcRes/sound/ddz/man/dui10.mp3" : {
+			"md5" : "4b37b0f4ca8ad10380c282e699590103"
+		}, 
+		"res/srcRes/sound/ddz/man/dui11.mp3" : {
+			"md5" : "555253106c91b3cf34f78bf2967406b6"
+		}, 
+		"res/srcRes/sound/ddz/man/dui12.mp3" : {
+			"md5" : "91374e2b83628b6c8d8b4d5d55c22632"
+		}, 
+		"res/srcRes/sound/ddz/man/dui13.mp3" : {
+			"md5" : "ec0cf87ffb2d243456d73e84002d1208"
+		}, 
+		"res/srcRes/sound/ddz/man/dui2.mp3" : {
+			"md5" : "24b6a0cd98a8ba712810d3929a3762ce"
+		}, 
+		"res/srcRes/sound/ddz/man/dui3.mp3" : {
+			"md5" : "2e727028099260a73d67c81405c170e8"
+		}, 
+		"res/srcRes/sound/ddz/man/dui4.mp3" : {
+			"md5" : "3ed67fbc1c427c9f2c1f1de92b8e8066"
+		}, 
+		"res/srcRes/sound/ddz/man/dui5.mp3" : {
+			"md5" : "3bb3aa03e4200ecba1cf50322ecee281"
+		}, 
+		"res/srcRes/sound/ddz/man/dui6.mp3" : {
+			"md5" : "ea28637c43beb4357a42d21c995f7861"
+		}, 
+		"res/srcRes/sound/ddz/man/dui7.mp3" : {
+			"md5" : "920eda0cf4db2b3ec687c14cb950e11e"
+		}, 
+		"res/srcRes/sound/ddz/man/dui8.mp3" : {
+			"md5" : "799c4d6e4aa83e8c82154416504c6fb0"
+		}, 
+		"res/srcRes/sound/ddz/man/dui9.mp3" : {
+			"md5" : "602d0f5cc36ee44c6e6c89a4f6196eca"
+		}, 
+		"res/srcRes/sound/ddz/man/feiji.mp3" : {
+			"md5" : "9e99802d3a54257628e80b6f98ae9cd8"
+		}, 
+		"res/srcRes/sound/ddz/man/jiabei.mp3" : {
+			"md5" : "c5cd6b43920bab0041a77b5468d880c7"
+		}, 
+		"res/srcRes/sound/ddz/man/liandui.mp3" : {
+			"md5" : "0a104c6cbf41d0bb18376f22f478daf5"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_NoOrder.mp3" : {
+			"md5" : "e35e58e38ae6d2c51ba5d9dbc688b068"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_NoRob.mp3" : {
+			"md5" : "cd06986baa35ceaebf8c3cb6c235f084"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_Order.mp3" : {
+			"md5" : "1721e15cfa1c85c9267a002d8a736b8a"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_Rob1.mp3" : {
+			"md5" : "d7e4ab91ed90100eba5034a59b4626bb"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_tuple1.mp3" : {
+			"md5" : "400dd9e4cca3d9be42b68714d6d03500"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_tuple10.mp3" : {
+			"md5" : "bd3d6defb764034587fe0eea84dc4e4f"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_tuple11.mp3" : {
+			"md5" : "1e11d99a917b6205f02f100bb425bad7"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_tuple12.mp3" : {
+			"md5" : "0aecb9b1f867f68eae7bd19110b5e630"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_tuple13.mp3" : {
+			"md5" : "d4f1a3154304d5cce0dc4a1d4128b914"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_tuple2.mp3" : {
+			"md5" : "5ce5e2801681270497c0a34dee109e00"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_tuple3.mp3" : {
+			"md5" : "0d1a7850d8f511bbfce5c2eabd42afe5"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_tuple4.mp3" : {
+			"md5" : "1ba6c536cc4f396f098b29e9e79c4efa"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_tuple5.mp3" : {
+			"md5" : "5456a6cd801ea2e66223794747ec1d54"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_tuple6.mp3" : {
+			"md5" : "8031cafe128471a501b8ad042eb0f69c"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_tuple7.mp3" : {
+			"md5" : "0496f91a78c918fff6600710363b8e8c"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_tuple8.mp3" : {
+			"md5" : "4f3486160af9338b5387c4f9369ed128"
+		}, 
+		"res/srcRes/sound/ddz/man/Man_tuple9.mp3" : {
+			"md5" : "b420d5d46f56da2a4b6c8345684ecb53"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_1.mp3" : {
+			"md5" : "69d22b8bade674b2adb37c41bd94d481"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_10.mp3" : {
+			"md5" : "dbf8d5156c3bf706489800e3e0123251"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_11.mp3" : {
+			"md5" : "5bb5d44efaa9ebd5938ac8b39774143c"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_12.mp3" : {
+			"md5" : "f488d57c7f5c08986a7a1f80389bc4f2"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_13.mp3" : {
+			"md5" : "f321a3f276b974636167a01a9351191b"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_14.mp3" : {
+			"md5" : "de3b51ba01f389662317eac6ee1fa30b"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_15.mp3" : {
+			"md5" : "f2711679a7fe77e35e1aeac809ae4414"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_2.mp3" : {
+			"md5" : "d7bc6ae9e92ef83382ed47bbe3b9a048"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_3.mp3" : {
+			"md5" : "5fe25414c3eeb62d8874f03474fd674c"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_4.mp3" : {
+			"md5" : "e9a2ef4937ed3ec042990cafdb91206b"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_5.mp3" : {
+			"md5" : "d40ba627a745bd094dfb65c4efdb225a"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_6.mp3" : {
+			"md5" : "87a0990efa97d074bf4b5f792c70bbc9"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_7.mp3" : {
+			"md5" : "1477b950b9831fb882d44ef9f610e88c"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_8.mp3" : {
+			"md5" : "7844647a629d20c9041c807917e027bc"
+		}, 
+		"res/srcRes/sound/ddz/man/pk_9.mp3" : {
+			"md5" : "d3947cf19545e0ff511e28ed49ecf023"
+		}, 
+		"res/srcRes/sound/ddz/man/sandaiyi.mp3" : {
+			"md5" : "3e98c58c0d3b45f8d99294c4cad5682b"
+		}, 
+		"res/srcRes/sound/ddz/man/sandaiyidui.mp3" : {
+			"md5" : "2b6b9f9fe1e00bedb6e8d5587fec32fb"
+		}, 
+		"res/srcRes/sound/ddz/man/sange.mp3" : {
+			"md5" : "65dee96bdf36ecd22d057feb3e361b85"
+		}, 
+		"res/srcRes/sound/ddz/man/shunzi.mp3" : {
+			"md5" : "614c18e8f2afe39100eb1da55ce47485"
+		}, 
+		"res/srcRes/sound/ddz/man/sidaier.mp3" : {
+			"md5" : "cbf40dc507f9f501c6c941a4239f7d2f"
+		}, 
+		"res/srcRes/sound/ddz/man/wangzha.mp3" : {
+			"md5" : "7968ec6b24836e91bed261bed0c3959a"
+		}, 
+		"res/srcRes/sound/ddz/man/zhadan.mp3" : {
+			"md5" : "7b85b9895745c1afb555070b36e0b844"
+		}, 
+		"res/srcRes/sound/ddz/woman/1fen.mp3" : {
+			"md5" : "07bb667d01d62beddbcdb5dbf6d2f4d3"
+		}, 
+		"res/srcRes/sound/ddz/woman/2fen.mp3" : {
+			"md5" : "8d17afaf3e7e11c57869b61e10bb24b0"
+		}, 
+		"res/srcRes/sound/ddz/woman/3fen.mp3" : {
+			"md5" : "85d3fe2c23c26386efc0cfd2e312a5db"
+		}, 
+		"res/srcRes/sound/ddz/woman/baojing1.mp3" : {
+			"md5" : "9091187da04e45a67fb7c7916c8c3f6c"
+		}, 
+		"res/srcRes/sound/ddz/woman/baojing2.mp3" : {
+			"md5" : "b5c535d011ce3225a7b37e0cf0c84d34"
+		}, 
+		"res/srcRes/sound/ddz/woman/buJiaBei.mp3" : {
+			"md5" : "d0963d9a8ae5f80b8704ca888f39f4b0"
+		}, 
+		"res/srcRes/sound/ddz/woman/buyao.mp3" : {
+			"md5" : "f3d55005b78a84b1df6d48940d299d10"
+		}, 
+		"res/srcRes/sound/ddz/woman/buyao1.mp3" : {
+			"md5" : "9efae77412d9a3c8791e506a182a78e0"
+		}, 
+		"res/srcRes/sound/ddz/woman/buyao2.mp3" : {
+			"md5" : "f958265a0dd2aed9cc7a91222b7d60e1"
+		}, 
+		"res/srcRes/sound/ddz/woman/buyao3.mp3" : {
+			"md5" : "8e6819ad84adaaf9f47e240b23c51052"
+		}, 
+		"res/srcRes/sound/ddz/woman/buyao4.mp3" : {
+			"md5" : "f3d55005b78a84b1df6d48940d299d10"
+		}, 
+		"res/srcRes/sound/ddz/woman/dani1.mp3" : {
+			"md5" : "69fdeb87da26960316348d501d00a2ba"
+		}, 
+		"res/srcRes/sound/ddz/woman/dani2.mp3" : {
+			"md5" : "7aa78ad83c9ac7d4426dabd22e8c97be"
+		}, 
+		"res/srcRes/sound/ddz/woman/dani3.mp3" : {
+			"md5" : "793d3898af9cf4e9365e9e073f82dcd5"
+		}, 
+		"res/srcRes/sound/ddz/woman/dui1.mp3" : {
+			"md5" : "f233e0e2d60dea1f0ac129782a35cd77"
+		}, 
+		"res/srcRes/sound/ddz/woman/dui10.mp3" : {
+			"md5" : "2c0a6441aaf1dd6caf1e7b1f072245bf"
+		}, 
+		"res/srcRes/sound/ddz/woman/dui11.mp3" : {
+			"md5" : "184c518bd4e3f26294926db067abd16e"
+		}, 
+		"res/srcRes/sound/ddz/woman/dui12.mp3" : {
+			"md5" : "9607a36a84e25d49f6fae79b279d04b9"
+		}, 
+		"res/srcRes/sound/ddz/woman/dui13.mp3" : {
+			"md5" : "a76356c516cd9a93fb219c659d5d7eda"
+		}, 
+		"res/srcRes/sound/ddz/woman/dui2.mp3" : {
+			"md5" : "e115cd21bf22cf512319e075cd39daf6"
+		}, 
+		"res/srcRes/sound/ddz/woman/dui3.mp3" : {
+			"md5" : "2887c3b73f6c22ccbc14eacb87d959df"
+		}, 
+		"res/srcRes/sound/ddz/woman/dui4.mp3" : {
+			"md5" : "533e87030f3b605c16450495e9f80ac2"
+		}, 
+		"res/srcRes/sound/ddz/woman/dui5.mp3" : {
+			"md5" : "d32bd63733e4b07470fa483f6dfa760c"
+		}, 
+		"res/srcRes/sound/ddz/woman/dui6.mp3" : {
+			"md5" : "da8ecaddccb6ea807c744c8472855a18"
+		}, 
+		"res/srcRes/sound/ddz/woman/dui7.mp3" : {
+			"md5" : "019c4c74aca60406d9fbc2b8da709c70"
+		}, 
+		"res/srcRes/sound/ddz/woman/dui8.mp3" : {
+			"md5" : "885b3d4198158c8b5d897cfe057a019b"
+		}, 
+		"res/srcRes/sound/ddz/woman/dui9.mp3" : {
+			"md5" : "53c85fd7b546c6ef2d6b60a4282b13e1"
+		}, 
+		"res/srcRes/sound/ddz/woman/feiji.mp3" : {
+			"md5" : "b9677183e6474bc4980de3e2e34b9edf"
+		}, 
+		"res/srcRes/sound/ddz/woman/jiabei.mp3" : {
+			"md5" : "71b7f0069522ddfb098a243eaabd1a4f"
+		}, 
+		"res/srcRes/sound/ddz/woman/liandui.mp3" : {
+			"md5" : "846b69027dcf3cbb2b14eeb775e781c7"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_1.mp3" : {
+			"md5" : "191081460d6574ac380b72ede0457dba"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_10.mp3" : {
+			"md5" : "43d2e2dfcc9c3d7c06e3fae40353d8c0"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_11.mp3" : {
+			"md5" : "861077710ac2ff957eadd2753c6012b1"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_12.mp3" : {
+			"md5" : "8f5639d7902704a9e514c9b129cbd7a3"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_13.mp3" : {
+			"md5" : "9aa411f75c28b6d1ebd620db60ea37b3"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_14.mp3" : {
+			"md5" : "56b1db1257baf62448b8133f99b40b23"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_15.mp3" : {
+			"md5" : "74dac74cbbde54dcf07a9a39d094a546"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_2.mp3" : {
+			"md5" : "0ea97bed37bd1110c7d3d232592d0617"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_3.mp3" : {
+			"md5" : "ae50a1fa3a2d212eda15513002c3eb55"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_4.mp3" : {
+			"md5" : "8e4bd14019a6dbdff0f62b3f78ad5fe4"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_5.mp3" : {
+			"md5" : "6c639f7bc3693617ffd5d961177eff72"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_6.mp3" : {
+			"md5" : "d79bf5980f48db24d7e9841bddbbe333"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_7.mp3" : {
+			"md5" : "0e6d71e6a8d1b1825124867d018e207f"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_8.mp3" : {
+			"md5" : "73316338660c800326ff57639f5ab559"
+		}, 
+		"res/srcRes/sound/ddz/woman/pk_9.mp3" : {
+			"md5" : "20b5741579af45e9772328926fa91010"
+		}, 
+		"res/srcRes/sound/ddz/woman/sandaiyi.mp3" : {
+			"md5" : "01910e4243a32f823537317fffa26b07"
+		}, 
+		"res/srcRes/sound/ddz/woman/sandaiyidui.mp3" : {
+			"md5" : "9aa1992bf388e14ada91e645daf0a127"
+		}, 
+		"res/srcRes/sound/ddz/woman/sange.mp3" : {
+			"md5" : "5c7855c8d4d261c60b162bb05f42c8c6"
+		}, 
+		"res/srcRes/sound/ddz/woman/shunzi.mp3" : {
+			"md5" : "21196309506a8dad925f4216ab1c1775"
+		}, 
+		"res/srcRes/sound/ddz/woman/sidaier.mp3" : {
+			"md5" : "2139371974760cc3100b85bbd9ca7b4e"
+		}, 
+		"res/srcRes/sound/ddz/woman/wangzha.mp3" : {
+			"md5" : "08add28896d9786f56f797d0b3254b76"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_NoOrder.mp3" : {
+			"md5" : "e7397b36ca2f8c45b35d35c2f4cb0821"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_NoRob.mp3" : {
+			"md5" : "4dc5d47631d28a8227d25038106e69ab"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_Order.mp3" : {
+			"md5" : "d3af178bb542c8f9193279cffa074b63"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_Rob1.mp3" : {
+			"md5" : "94c8de9ea8b6c3ac10da02be8b81b479"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_tuple1.mp3" : {
+			"md5" : "bb855dd94eb0672e4efb844d833219f5"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_tuple10.mp3" : {
+			"md5" : "30801e070fdc2428962d705cad376169"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_tuple11.mp3" : {
+			"md5" : "62f8c37e647dcc0bef99f495acde38fb"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_tuple12.mp3" : {
+			"md5" : "cb74442ef611203818122dcf1ad39a3b"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_tuple13.mp3" : {
+			"md5" : "c7c7a5a4a3f2b2661de924cc9d7a8079"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_tuple2.mp3" : {
+			"md5" : "efc2636dd365bbcadadc925390e1570f"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_tuple3.mp3" : {
+			"md5" : "6516acc6aa9da5bc1b0e7551538ded92"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_tuple4.mp3" : {
+			"md5" : "2754152b991f1250567edaa6efcdca36"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_tuple5.mp3" : {
+			"md5" : "275415375a4403dbf07218f5e29298c4"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_tuple6.mp3" : {
+			"md5" : "f5277dff2eb40896e4afd377a8fb4fd0"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_tuple7.mp3" : {
+			"md5" : "55f303f6d42d09895c1d2d6369b73847"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_tuple8.mp3" : {
+			"md5" : "eb3652dac708f2101c0ef69fc970fdbc"
+		}, 
+		"res/srcRes/sound/ddz/woman/Woman_tuple9.mp3" : {
+			"md5" : "68169a40e265e6fe2d8b5e3776232237"
+		}, 
+		"res/srcRes/sound/ddz/woman/zhadan.mp3" : {
+			"md5" : "b3eb2b9a96577b172629c46246eecc97"
+		}, 
+		"res/srcRes/sound/man/buzhang.mp3" : {
+			"md5" : "8ca0d86d162ea255277ff9869aeb0734"
+		}, 
+		"res/srcRes/sound/man/chi.mp3" : {
+			"md5" : "abb9c142db2d0c83162c160b1b102db8"
+		}, 
+		"res/srcRes/sound/man/fix_msg_1.mp3" : {
+			"md5" : "a7b2dba8970fc051c325503f10957cf1"
+		}, 
+		"res/srcRes/sound/man/fix_msg_10.mp3" : {
+			"md5" : "152a107b50ead4d34dea3529bd82b9e1"
+		}, 
+		"res/srcRes/sound/man/fix_msg_11.mp3" : {
+			"md5" : "87ecebf75bff655c80fb1e0b7a5881f0"
+		}, 
+		"res/srcRes/sound/man/fix_msg_2.mp3" : {
+			"md5" : "381ccf6fcc3ead526b1fcf78b1a36912"
+		}, 
+		"res/srcRes/sound/man/fix_msg_3.mp3" : {
+			"md5" : "3033e44bb5b150e3509f62e33a831edd"
+		}, 
+		"res/srcRes/sound/man/fix_msg_4.mp3" : {
+			"md5" : "62356d44c3e15493c9413993788a7749"
+		}, 
+		"res/srcRes/sound/man/fix_msg_5.mp3" : {
+			"md5" : "898666c4ab1c493cbdb23a9c68c8773f"
+		}, 
+		"res/srcRes/sound/man/fix_msg_6.mp3" : {
+			"md5" : "26ef6c1c0c44d894b794d4d5a46ccab9"
+		}, 
+		"res/srcRes/sound/man/fix_msg_7.mp3" : {
+			"md5" : "935c3227bab0f72b987dd7c60c4670c9"
+		}, 
+		"res/srcRes/sound/man/fix_msg_8.mp3" : {
+			"md5" : "510cbc891d22bd6907f9280c52ac19a1"
+		}, 
+		"res/srcRes/sound/man/fix_msg_9.mp3" : {
+			"md5" : "7e2e978179ff69e31e1f103c327ba4af"
+		}, 
+		"res/srcRes/sound/man/gang.mp3" : {
+			"md5" : "0c18e7f66bc35c217c342477ddaf2330"
+		}, 
+		"res/srcRes/sound/man/hu.mp3" : {
+			"md5" : "e88ae34cea17edbb51e2dfa071b8dc2e"
+		}, 
+		"res/srcRes/sound/man/mjt1_1.mp3" : {
+			"md5" : "94e9188729915c7e4c7e5000ac483c9b"
+		}, 
+		"res/srcRes/sound/man/mjt1_2.mp3" : {
+			"md5" : "f1013366a2d2eb5e888e7836dc7f6567"
+		}, 
+		"res/srcRes/sound/man/mjt1_3.mp3" : {
+			"md5" : "3a8c55ffd329fe731e7e775ec4ac19c0"
+		}, 
+		"res/srcRes/sound/man/mjt1_4.mp3" : {
+			"md5" : "47ad7d8e52cb3b3262f8ad0edce602fc"
+		}, 
+		"res/srcRes/sound/man/mjt1_5.mp3" : {
+			"md5" : "8506416869ba3e8ef519087b78641074"
+		}, 
+		"res/srcRes/sound/man/mjt1_6.mp3" : {
+			"md5" : "1a6cb9bd5eec3736b0af813bb382bc71"
+		}, 
+		"res/srcRes/sound/man/mjt1_7.mp3" : {
+			"md5" : "5a5ab8575f413f1b89a78e95be85c5f3"
+		}, 
+		"res/srcRes/sound/man/mjt1_8.mp3" : {
+			"md5" : "b3ef701e0b98580b58ed5ec6382cc0ad"
+		}, 
+		"res/srcRes/sound/man/mjt1_9.mp3" : {
+			"md5" : "ac48482b407d7636451753de8042b2e4"
+		}, 
+		"res/srcRes/sound/man/mjt2_1.mp3" : {
+			"md5" : "108a7ae0576b3af0df762958db001be7"
+		}, 
+		"res/srcRes/sound/man/mjt2_2.mp3" : {
+			"md5" : "dc30a5bb53900f1e444e011ade2d303c"
+		}, 
+		"res/srcRes/sound/man/mjt2_3.mp3" : {
+			"md5" : "8965e5818ebcaf8b3537bc296380052d"
+		}, 
+		"res/srcRes/sound/man/mjt2_4.mp3" : {
+			"md5" : "a49e1c469477c67ece30080c13332ba5"
+		}, 
+		"res/srcRes/sound/man/mjt2_5.mp3" : {
+			"md5" : "a9a2194ccddab5ec69050168f88c7c70"
+		}, 
+		"res/srcRes/sound/man/mjt2_6.mp3" : {
+			"md5" : "e5d9809755976c4439eefa15ea2ea41a"
+		}, 
+		"res/srcRes/sound/man/mjt2_7.mp3" : {
+			"md5" : "22673e574e52e3c0bb160c671ae73f41"
+		}, 
+		"res/srcRes/sound/man/mjt2_8.mp3" : {
+			"md5" : "24cedcf1887e16d0bfda9780ed5cbf05"
+		}, 
+		"res/srcRes/sound/man/mjt2_9.mp3" : {
+			"md5" : "76a64cfcf48bcb021365ff7648c5f9e7"
+		}, 
+		"res/srcRes/sound/man/mjt3_1.mp3" : {
+			"md5" : "f6d6f7a51d72a175b6a1fdc2948b6a20"
+		}, 
+		"res/srcRes/sound/man/mjt3_2.mp3" : {
+			"md5" : "05fa2d754feb6d245ab07bc6f94a58df"
+		}, 
+		"res/srcRes/sound/man/mjt3_3.mp3" : {
+			"md5" : "94105248f970ad5aeae934fde65d22f4"
+		}, 
+		"res/srcRes/sound/man/mjt3_4.mp3" : {
+			"md5" : "aebb17b8ad9333bd03b325439ccbf1e0"
+		}, 
+		"res/srcRes/sound/man/mjt3_5.mp3" : {
+			"md5" : "d6de04c7a9b207c6098a300625746a0c"
+		}, 
+		"res/srcRes/sound/man/mjt3_6.mp3" : {
+			"md5" : "8c6bd447188bf4e0b29e328af3b4bac3"
+		}, 
+		"res/srcRes/sound/man/mjt3_7.mp3" : {
+			"md5" : "fa84e94ee3ab5630541e5ebf9d3ff907"
+		}, 
+		"res/srcRes/sound/man/mjt3_8.mp3" : {
+			"md5" : "b6850cb6eb7228d911f820d64ce13a1d"
+		}, 
+		"res/srcRes/sound/man/mjt3_9.mp3" : {
+			"md5" : "16d8392f3087f06118658ae6c40ffd81"
+		}, 
+		"res/srcRes/sound/man/mjt4_1.mp3" : {
+			"md5" : "3cbfd34f61d258419eb4f21ab51047da"
+		}, 
+		"res/srcRes/sound/man/mjt4_2.mp3" : {
+			"md5" : "5a25c3db69c39a60fbc9caead52a3bee"
+		}, 
+		"res/srcRes/sound/man/mjt4_3.mp3" : {
+			"md5" : "d575aa1d057b801ab9a560004637a904"
+		}, 
+		"res/srcRes/sound/man/mjt4_4.mp3" : {
+			"md5" : "7dd93eb864b8df364d35ab95ec35d043"
+		}, 
+		"res/srcRes/sound/man/mjt5_1.mp3" : {
+			"md5" : "b11a929dbee8913baff8a237d6fde0dd"
+		}, 
+		"res/srcRes/sound/man/mjt5_2.mp3" : {
+			"md5" : "5136740e001e2aa3de0b3f613deeb91f"
+		}, 
+		"res/srcRes/sound/man/mjt5_3.mp3" : {
+			"md5" : "5581c3325f41af323c0690da3940eed0"
+		}, 
+		"res/srcRes/sound/man/peng.mp3" : {
+			"md5" : "8fd254dfd0fce71cf7abf077167acf46"
+		}, 
+		"res/srcRes/sound/man/ting.mp3" : {
+			"md5" : "a6262d53ea453225f2f50de320c0b3c2"
+		}, 
+		"res/srcRes/sound/man/yaoji.mp3" : {
+			"md5" : "4b51097b3ca9848c05d320c1ade21d04"
+		}, 
+		"res/srcRes/sound/man/zimo.mp3" : {
+			"md5" : "a1185e97f901fefddcf92d0180ebc6e6"
+		}, 
+		"res/srcRes/sound/woman/buzhang.mp3" : {
+			"md5" : "f7265b1d9664bf460d08c62e8eab982e"
+		}, 
+		"res/srcRes/sound/woman/chi.mp3" : {
+			"md5" : "d5c68396d6ce2d544dc5bb9460c17433"
+		}, 
+		"res/srcRes/sound/woman/fix_msg_1.mp3" : {
+			"md5" : "7fcc11c70b275e560b3b7ad70c68225b"
+		}, 
+		"res/srcRes/sound/woman/fix_msg_10.mp3" : {
+			"md5" : "3dd9a8db6500755691eb0d675ee77326"
+		}, 
+		"res/srcRes/sound/woman/fix_msg_11.mp3" : {
+			"md5" : "a74b9008b31fd7c22a38a2a21cd91b98"
+		}, 
+		"res/srcRes/sound/woman/fix_msg_2.mp3" : {
+			"md5" : "042aa5b8375d13a9764637cf1da960ee"
+		}, 
+		"res/srcRes/sound/woman/fix_msg_3.mp3" : {
+			"md5" : "c47b7bc319ce9a500939073544048d71"
+		}, 
+		"res/srcRes/sound/woman/fix_msg_4.mp3" : {
+			"md5" : "4d912ed621605b3322b4dc6256654f2d"
+		}, 
+		"res/srcRes/sound/woman/fix_msg_5.mp3" : {
+			"md5" : "538d2c3112dd570e62d29a675334f6f3"
+		}, 
+		"res/srcRes/sound/woman/fix_msg_6.mp3" : {
+			"md5" : "c11d4768ba8511e6f5f8b465f7d6ff85"
+		}, 
+		"res/srcRes/sound/woman/fix_msg_7.mp3" : {
+			"md5" : "f31e455519821903c2c86c4f5779cb6b"
+		}, 
+		"res/srcRes/sound/woman/fix_msg_8.mp3" : {
+			"md5" : "744cdbd4ec5afa86c58b19e8cb2fafad"
+		}, 
+		"res/srcRes/sound/woman/fix_msg_9.mp3" : {
+			"md5" : "e011ee9ff7f6c2b624ce9e24126b9b48"
+		}, 
+		"res/srcRes/sound/woman/gang.mp3" : {
+			"md5" : "4da1150edd0b23eb2866e13cb2f732eb"
+		}, 
+		"res/srcRes/sound/woman/hu.mp3" : {
+			"md5" : "2fcd8d42a900b10c06208a7aa2575980"
+		}, 
+		"res/srcRes/sound/woman/mjt1_1.mp3" : {
+			"md5" : "b0dc8b6df21f1390babf024aa925a677"
+		}, 
+		"res/srcRes/sound/woman/mjt1_2.mp3" : {
+			"md5" : "bfd00e4813271b97258c8a83f5afc877"
+		}, 
+		"res/srcRes/sound/woman/mjt1_3.mp3" : {
+			"md5" : "3a28ce328017ec7e004ccf42fcf54568"
+		}, 
+		"res/srcRes/sound/woman/mjt1_4.mp3" : {
+			"md5" : "bf0cec075c84c95c185857ed6f98e05f"
+		}, 
+		"res/srcRes/sound/woman/mjt1_5.mp3" : {
+			"md5" : "97bc9704af197136372c017f08daa0c7"
+		}, 
+		"res/srcRes/sound/woman/mjt1_6.mp3" : {
+			"md5" : "771bc4ae7e27f200bea233b5d7e327b4"
+		}, 
+		"res/srcRes/sound/woman/mjt1_7.mp3" : {
+			"md5" : "ba2b8ef7d8545bb0c963fc8e5102625b"
+		}, 
+		"res/srcRes/sound/woman/mjt1_8.mp3" : {
+			"md5" : "e3151067c6d898756bc4206d762d2774"
+		}, 
+		"res/srcRes/sound/woman/mjt1_9.mp3" : {
+			"md5" : "422bb23c45cd262c718ee87e0e31f697"
+		}, 
+		"res/srcRes/sound/woman/mjt2_1.mp3" : {
+			"md5" : "dca5518a078ec66f413a068e1fb74086"
+		}, 
+		"res/srcRes/sound/woman/mjt2_2.mp3" : {
+			"md5" : "9d67510f74834b76dc7fac0fd9dca4b2"
+		}, 
+		"res/srcRes/sound/woman/mjt2_3.mp3" : {
+			"md5" : "f97470743e38517eacf83db25353b6c2"
+		}, 
+		"res/srcRes/sound/woman/mjt2_4.mp3" : {
+			"md5" : "58b09995bb9085842bb8c9d7fc68a5dd"
+		}, 
+		"res/srcRes/sound/woman/mjt2_5.mp3" : {
+			"md5" : "f65f05eb709fa369b6d8ec1523cca16c"
+		}, 
+		"res/srcRes/sound/woman/mjt2_6.mp3" : {
+			"md5" : "2792671e77c54596dbcccfdd4d07bfac"
+		}, 
+		"res/srcRes/sound/woman/mjt2_7.mp3" : {
+			"md5" : "584aa2f0fdacb62852f31f979f7859aa"
+		}, 
+		"res/srcRes/sound/woman/mjt2_8.mp3" : {
+			"md5" : "d8a5569eba7a39611a79434557bfeca2"
+		}, 
+		"res/srcRes/sound/woman/mjt2_9.mp3" : {
+			"md5" : "4736fee7dee9b03c8ac2a6a9775893fd"
+		}, 
+		"res/srcRes/sound/woman/mjt3_1.mp3" : {
+			"md5" : "d2def03a2ee399fc6fc10d21324afe29"
+		}, 
+		"res/srcRes/sound/woman/mjt3_2.mp3" : {
+			"md5" : "44d68db8d32dbb5bdf0ba6863c33ce6d"
+		}, 
+		"res/srcRes/sound/woman/mjt3_3.mp3" : {
+			"md5" : "31156617a12a96a2fdbfdc88dc73d7db"
+		}, 
+		"res/srcRes/sound/woman/mjt3_4.mp3" : {
+			"md5" : "e53d6361f02b70a9bb3d20e5752d2435"
+		}, 
+		"res/srcRes/sound/woman/mjt3_5.mp3" : {
+			"md5" : "19822b78e5d7f448be14ab457d538a4c"
+		}, 
+		"res/srcRes/sound/woman/mjt3_6.mp3" : {
+			"md5" : "b49a5813307e8bec966f10280c350927"
+		}, 
+		"res/srcRes/sound/woman/mjt3_7.mp3" : {
+			"md5" : "38132383367d32d79056e8f35354aafd"
+		}, 
+		"res/srcRes/sound/woman/mjt3_8.mp3" : {
+			"md5" : "a3f96828d767ef5a71f0f414557b5259"
+		}, 
+		"res/srcRes/sound/woman/mjt3_9.mp3" : {
+			"md5" : "03374d94e252cea5f6606a433ce86430"
+		}, 
+		"res/srcRes/sound/woman/mjt4_1.mp3" : {
+			"md5" : "d1a17b4c1b6da240f5f9351b382dc03a"
+		}, 
+		"res/srcRes/sound/woman/mjt4_2.mp3" : {
+			"md5" : "fc0b209ee9994e4a33027fed07af26d1"
+		}, 
+		"res/srcRes/sound/woman/mjt4_3.mp3" : {
+			"md5" : "fefdbfca6c7a962c2b573cbd9629e2c6"
+		}, 
+		"res/srcRes/sound/woman/mjt4_4.mp3" : {
+			"md5" : "2622bcc15f8c49c3d8a7df2d79685b97"
+		}, 
+		"res/srcRes/sound/woman/mjt5_1.mp3" : {
+			"md5" : "373fdac362854777f08b6514dab5ae7d"
+		}, 
+		"res/srcRes/sound/woman/mjt5_2.mp3" : {
+			"md5" : "72f4f21eb885174f1ec56bb780e27f24"
+		}, 
+		"res/srcRes/sound/woman/mjt5_3.mp3" : {
+			"md5" : "5a529f7ca0005d3054ca9e3903ed221c"
+		}, 
+		"res/srcRes/sound/woman/peng.mp3" : {
+			"md5" : "ef89d6fac49efa4e2cd4ddc6fa4fbc0c"
+		}, 
+		"res/srcRes/sound/woman/ting.mp3" : {
+			"md5" : "51be28773c60d29b6e98f75b28536d47"
+		}, 
+		"res/srcRes/sound/woman/yaoji.mp3" : {
+			"md5" : "0ecdf173d2fed465d6f46258c57a27b4"
+		}, 
+		"res/srcRes/sound/woman/zimo.mp3" : {
+			"md5" : "ba50ff1ccd4204847f9abcc6ac6b9591"
+		}, 
+		"res/Texture/Animation/AnimExpression.plist" : {
+			"md5" : "bb904cc96e58d085d16d4ca2e3199509"
+		}, 
+		"res/Texture/Animation/AnimExpression.png" : {
+			"md5" : "9ba305da5ccfe7c5264ed19b0b7fb239"
+		}, 
+		"res/Texture/Animation/boomLight.plist" : {
+			"md5" : "4269a2a29929219520e3684f5e8f87b5"
+		}, 
+		"res/Texture/Animation/boomLight.png" : {
+			"md5" : "7743c3b51d64b3263e828cd6ab7a3331"
+		}, 
+		"res/Texture/Animation/boomPiece.plist" : {
+			"md5" : "a9e8b64fc36bf84655bb4c5f4f14da71"
+		}, 
+		"res/Texture/Animation/boomPiece.png" : {
+			"md5" : "358555ab47b49c2e1d866919110bb985"
+		}, 
+		"res/Texture/Animation/boomText.plist" : {
+			"md5" : "abd65e0d57a06804dd3f0b8d76f0d620"
+		}, 
+		"res/Texture/Animation/boomText.png" : {
+			"md5" : "d3d6fc1eb11fde57d048fc1fa1fc4838"
+		}, 
+		"res/Texture/Animation/Emotions.plist" : {
+			"md5" : "90ab6f843a6c3b3a5305f5e12cac1f7e"
+		}, 
+		"res/Texture/Animation/Emotions.png" : {
+			"md5" : "f778d46b0410a687fa6d68e10147462e"
+		}, 
+		"res/Texture/Animation/LobbyGirl.plist" : {
+			"md5" : "a6b74b5bf174d7ab3ae8ae6a5b345755"
+		}, 
+		"res/Texture/Animation/LobbyGirl.png" : {
+			"md5" : "a2267debf008a4ba9c9a6538d67b12ab"
+		}, 
+		"res/Texture/CardsMJNew.plist" : {
+			"md5" : "2a9a9272f7f27d7b532ab9ac34e626b4"
+		}, 
+		"res/Texture/CardsMJNew.png" : {
+			"md5" : "10171ee40c21b9ad3be4a6fd2ddf135f"
+		}, 
+		"res/Texture/CardsPoker.plist" : {
+			"md5" : "bcb88102ea203675c45c610b7890ca22"
+		}, 
+		"res/Texture/CardsPoker.png" : {
+			"md5" : "e1e98c461968dc9d6d8d00f02826fad8"
+		}, 
+		"res/Texture/GameSub/GameAnQing.plist" : {
+			"md5" : "c818a2ca5218526e3b13ba6bfe0f921a"
+		}, 
+		"res/Texture/GameSub/GameAnQing.png" : {
+			"md5" : "a42a165c82279b05cf6b2daca4d0c40a"
+		}, 
+		"res/Texture/GameSub/GameDDZ.plist" : {
+			"md5" : "006740943b2b279340e891f7b157a8e2"
+		}, 
+		"res/Texture/GameSub/GameDDZ.png" : {
+			"md5" : "5df0cf46ea9d4fd393c1586b2b1e57a0"
+		}, 
+		"res/Texture/GameSub/GameHuaiBei.plist" : {
+			"md5" : "f1c3782c1152029fd8484e05dfc2a2a4"
+		}, 
+		"res/Texture/GameSub/GameHuaiBei.png" : {
+			"md5" : "4b170431f6fb43bf910f116a09262603"
+		}, 
+		"res/Texture/GameSub/GameZJH.plist" : {
+			"md5" : "27a4bef58703cd7de64887afc90148b0"
+		}, 
+		"res/Texture/GameSub/GameZJH.png" : {
+			"md5" : "98f7e606b83a9181a6b13dc412035d01"
+		}, 
+		"res/Texture/GComm.plist" : {
+			"md5" : "901af2ecadc3cb3818d7e0571352c63a"
+		}, 
+		"res/Texture/GComm.png" : {
+			"md5" : "08d2cbf5d5efa17d393c348838b50a4f"
+		}, 
+		"res/Texture/ILobby/Club.plist" : {
+			"md5" : "b2792016e8ced46de680358db5a20e32"
+		}, 
+		"res/Texture/ILobby/Club.png" : {
+			"md5" : "1be6a6540b70f1470a7879d39956cebb"
+		}, 
+		"res/Texture/ILobby/CommonLobby.plist" : {
+			"md5" : "206b9c37935b6d153bd2f1feb0da7288"
+		}, 
+		"res/Texture/ILobby/CommonLobby.png" : {
+			"md5" : "2fc3e89b42e472102440d280437113ef"
+		}, 
+		"res/Texture/ILobby/UIAgentRoom.plist" : {
+			"md5" : "3a6a12eab75774e347a9011142dc1241"
+		}, 
+		"res/Texture/ILobby/UIAgentRoom.png" : {
+			"md5" : "08141b2277322acd9787366e9fe631f3"
+		}, 
+		"res/Texture/ILobby/UIBigWinning.plist" : {
+			"md5" : "3b1c8e611af49cdc332b311f5eae769b"
+		}, 
+		"res/Texture/ILobby/UIBigWinning.png" : {
+			"md5" : "fcffdcdfe0d0a914264188df902969d1"
+		}, 
+		"res/Texture/ILobby/UICoin.plist" : {
+			"md5" : "8a6b727ead53fa3f975e419bdc050a92"
+		}, 
+		"res/Texture/ILobby/UICoin.png" : {
+			"md5" : "7586c481490e0822844cec0abaf22f87"
+		}, 
+		"res/Texture/ILobby/UICreateRoom.plist" : {
+			"md5" : "4252d9197e9f764766cb3fcec03101a8"
+		}, 
+		"res/Texture/ILobby/UICreateRoom.png" : {
+			"md5" : "62641e1ed091842a9ba83d060dc93a11"
+		}, 
+		"res/Texture/ILobby/UIJoinRoom.plist" : {
+			"md5" : "83673cef28497f846694e68dac718b9a"
+		}, 
+		"res/Texture/ILobby/UIJoinRoom.png" : {
+			"md5" : "cedff41e1b3a6ce71af8081dbf5f000d"
+		}, 
+		"res/Texture/ILobby/UILobby.plist" : {
+			"md5" : "18d7a8b28a10bec28af15dadf4fb61a9"
+		}, 
+		"res/Texture/ILobby/UILobby.png" : {
+			"md5" : "96ff4937a10730965cc23d9c3d3f71b6"
+		}, 
+		"res/Texture/ILobby/UILogin.plist" : {
+			"md5" : "654d4548aa6c68a83d6b18e3816acd13"
+		}, 
+		"res/Texture/ILobby/UILogin.png" : {
+			"md5" : "3c86c586356dc04e8a909adc380983f3"
+		}, 
+		"res/Texture/ILobby/UIMessage.plist" : {
+			"md5" : "2c2d2667bf833a5415569b7f027da8e2"
+		}, 
+		"res/Texture/ILobby/UIMessage.png" : {
+			"md5" : "4314017c8f987089d00617a5f94b6efc"
+		}, 
+		"res/Texture/ILobby/UISetting.plist" : {
+			"md5" : "6ce0f4751ece0f18fd01cef90451213b"
+		}, 
+		"res/Texture/ILobby/UISetting.png" : {
+			"md5" : "7d15ee324540a0ca3ac42807a7075268"
+		}, 
+		"res/Texture/ILobby/UIShare.plist" : {
+			"md5" : "bc9ae2cc1795235f92e3c9327b1d6d85"
+		}, 
+		"res/Texture/ILobby/UIShare.png" : {
+			"md5" : "4f94fd2c8e4247667224698d9e6425d9"
+		}, 
+		"res/Texture/ILobby/UIShop.plist" : {
+			"md5" : "97956e0e56d4c7f177107ae4529ec517"
+		}, 
+		"res/Texture/ILobby/UIShop.png" : {
+			"md5" : "abbc72b17d2f0f9a19783cf429f8b2bf"
+		}, 
+		"res/Texture/ILobby/UIVideoPlay.plist" : {
+			"md5" : "7565bf30802e1262f89ea39f651738b5"
+		}, 
+		"res/Texture/ILobby/UIVideoPlay.png" : {
+			"md5" : "580ea63b6be7bf58998baa2af73903b3"
+		}, 
+		"res/Texture/IRoom/CommomRoom.plist" : {
+			"md5" : "a1fb3884dde5ec191c2d3e3a8bcabfda"
+		}, 
+		"res/Texture/IRoom/CommomRoom.png" : {
+			"md5" : "cf999efc83687910985e342c924562ca"
+		}, 
+		"res/Texture/IRoom/DecisionBtn.plist" : {
+			"md5" : "e2d23b183db3826053394eed8ba34083"
+		}, 
+		"res/Texture/IRoom/DecisionBtn.png" : {
+			"md5" : "4b01174045f6755f63dd86c4a8d20c27"
+		}, 
+		"res/Texture/IRoom/RoomCenter.plist" : {
+			"md5" : "9e0747c2f75ed517314951103dd9f74b"
+		}, 
+		"res/Texture/IRoom/RoomCenter.png" : {
+			"md5" : "a642ec0afdec4de0fa15d1352f1fa0ff"
+		}, 
+		"res/Texture/IRoom/RoomTop.plist" : {
+			"md5" : "79a090efaea43e16718bb79d5d532b91"
+		}, 
+		"res/Texture/IRoom/RoomTop.png" : {
+			"md5" : "e847eea943934fbf2dd2750a27df4224"
+		}, 
+		"res/Texture/IRoom/UIChat.plist" : {
+			"md5" : "d9aacc03132db639069f826580773bc0"
+		}, 
+		"res/Texture/IRoom/UIChat.png" : {
+			"md5" : "967675e2c63d3046dfb2dc9342a223db"
+		}, 
+		"res/Texture/IRoom/UIChatNew.plist" : {
+			"md5" : "ac06ad5c4da7c3a62bf6fafd8b83f727"
+		}, 
+		"res/Texture/IRoom/UIChatNew.png" : {
+			"md5" : "14ee3c306263be5e4f2519b022d348a7"
+		}, 
+		"res/Texture/IRoom/UIDistance.plist" : {
+			"md5" : "ed70141f63a77fff70f085257a458836"
+		}, 
+		"res/Texture/IRoom/UIDistance.png" : {
+			"md5" : "3a0b4ebad39b35d7c0aea3476d300995"
+		}, 
+		"res/Texture/IRoom/UIPlayerInfo.plist" : {
+			"md5" : "6b996266e3cb2cad33f89b1c98b551ac"
+		}, 
+		"res/Texture/IRoom/UIPlayerInfo.png" : {
+			"md5" : "986f59f0cf2aa6937f874e08b6697809"
+		}, 
+		"res/Texture/IRoom/UISettlement.plist" : {
+			"md5" : "160f8d1d73c3aab39d1a23d3504b6142"
+		}, 
+		"res/Texture/IRoom/UISettlement.png" : {
+			"md5" : "df13ecaae223dd96b6eb0f21a6d6a6c7"
+		}, 
+		"res/Texture/IRoom/UIVoice.plist" : {
+			"md5" : "7e392420b0b61b180f2bfe100c617c11"
+		}, 
+		"res/Texture/IRoom/UIVoice.png" : {
+			"md5" : "d73a71d270cd34450513148554fd29ba"
+		}, 
+		"src_et/app/Common/Config/Coin/ConfigCoinExchange.luac" : {
+			"md5" : "8e0edb697a07a84524c102e8e85d49df"
+		}, 
+		"src_et/app/Common/Config/Coin/ConfigCoinLimit.luac" : {
+			"md5" : "bf4fce465ed38169256a7e1013760cdb"
+		}, 
+		"src_et/app/Common/Config/Coin/ConfigCoinRuleType.luac" : {
+			"md5" : "8a167efec5fe23343ad3174ed2aec5de"
+		}, 
+		"src_et/app/Common/Config/ConfigGameScene.luac" : {
+			"md5" : "1f4f98f65a9de6ba34359edc4ca041e8"
+		}, 
+		"src_et/app/Common/Config/ConfigRuleAnHui.luac" : {
+			"md5" : "abb416516bc4d124a156e6b827bf8ae9"
+		}, 
+		"src_et/app/Common/Config/ConfigRuleAnQing.luac" : {
+			"md5" : "0f3118a5a3ba7b8631afc331542519da"
+		}, 
+		"src_et/app/Common/Config/ConfigRuleDDZ.luac" : {
+			"md5" : "f0b42f0a60aa34ae2bfb32b23b31add9"
+		}, 
+		"src_et/app/Common/Config/ConfigRuleHuaiBei.luac" : {
+			"md5" : "2475c7dfeb21e73410687d3bf111dada"
+		}, 
+		"src_et/app/Common/Config/ConfigShare.luac" : {
+			"md5" : "0e14de751ffb08bbca1531bcce52482d"
+		}, 
+		"src_et/app/Common/Config/ConfigTxtTip.luac" : {
+			"md5" : "16d135d9be1704d0b5c10daa75f656ce"
+		}, 
+		"src_et/app/Common/Config/DefineChat.luac" : {
+			"md5" : "67ad3dba95954d9e5cc8373359cf8bf9"
+		}, 
+		"src_et/app/Common/Config/DefineHuPai.luac" : {
+			"md5" : "239143dba26023275da1433b9b629929"
+		}, 
+		"src_et/app/Common/Config/DefineRoom.luac" : {
+			"md5" : "63905794f1bfbec33253fa322d300b4f"
+		}, 
+		"src_et/app/Common/Config/DefineRule.luac" : {
+			"md5" : "440556518a903e2de288f99e79fc5f1b"
+		}, 
+		"src_et/app/Common/Config/DefineShieldWord.luac" : {
+			"md5" : "e4569d86cb1953cbb45454fc0763daa7"
+		}, 
+		"src_et/app/Common/Config/DefineSound.luac" : {
+			"md5" : "1c337bcb738d1b0713211187d291a6da"
+		}, 
+		"src_et/app/Common/Config/EventCmdID.luac" : {
+			"md5" : "e17b007e92f6b8d454afa23c864ea8f4"
+		}, 
+		"src_et/app/Common/Config/Message/ConfigFCM.luac" : {
+			"md5" : "9b83f59e3ef5ec2427c7614096053c4b"
+		}, 
+		"src_et/app/Common/Config/Message/ConfigGameExp.luac" : {
+			"md5" : "e4a40ac771932e77c14d5dc3de031893"
+		}, 
+		"src_et/app/Common/Config/Message/ConfigJuBao.luac" : {
+			"md5" : "ad74332b73d14c3fbe7bb18b758d4d5a"
+		}, 
+		"src_et/app/Common/Config/Message/ConfigUpdateContent.luac" : {
+			"md5" : "66f0be18c5e946403f3b04d778c78ef4"
+		}, 
+		"src_et/app/Common/Controller/CtlMJNetListener.luac" : {
+			"md5" : "41abf896915e567c6f8e2d1d92a2bfe6"
+		}, 
+		"src_et/app/Common/Controller/SoundMng.luac" : {
+			"md5" : "3d6776be33eaebb4a703b34225513c4f"
+		}, 
+		"src_et/app/Common/DB/GameStateDB.luac" : {
+			"md5" : "b27bbab4f0a2ee9aa11d5cf13839ddde"
+		}, 
+		"src_et/app/Common/DB/LocalDBMgr.luac" : {
+			"md5" : "6b4770121295da0521202ec80d214d79"
+		}, 
+		"src_et/app/Common/FacadeService.luac" : {
+			"md5" : "0a7f01d0920c73964a7e4988cee54461"
+		}, 
+		"src_et/app/Common/Manager/EventBus.luac" : {
+			"md5" : "c185fc47ba6092f5dc38441ab64c191e"
+		}, 
+		"src_et/app/Common/Manager/EventSystem.luac" : {
+			"md5" : "de8c56de375bf95adf4f49a80f53e466"
+		}, 
+		"src_et/app/Common/Manager/HeadMng.luac" : {
+			"md5" : "0d18345b13c7640f9922b141ebc51a13"
+		}, 
+		"src_et/app/Common/Manager/HttpMng.luac" : {
+			"md5" : "6fda2626d2c0eab48b28fbba5b6a72eb"
+		}, 
+		"src_et/app/Common/Manager/SceneUpdateBase.luac" : {
+			"md5" : "4b91ce49712353959bd17a421e2275c5"
+		}, 
+		"src_et/app/Common/Manager/SoundEngine.luac" : {
+			"md5" : "0e21c34cda48e5de4d5b3a0afc8538a5"
+		}, 
+		"src_et/app/Common/Manager/XMLHttpMng.luac" : {
+			"md5" : "a9f0130992e5906e95aaae58d35ca4c7"
+		}, 
+		"src_et/app/Common/Modle/DataCenter.luac" : {
+			"md5" : "d04cdeb88208577bc3359ed912092a50"
+		}, 
+		"src_et/app/Common/Modle/ModleGlobal.luac" : {
+			"md5" : "5330359da69b9ec2696e9f142f8c1ce7"
+		}, 
+		"src_et/app/Common/Modle/ModleMJAnQin.luac" : {
+			"md5" : "6e73d46c72db92cf17124f0bc5840a9c"
+		}, 
+		"src_et/app/Common/Modle/ModleMJHuaiBei.luac" : {
+			"md5" : "5b131b19298674d4c74021669d4c6dbd"
+		}, 
+		"src_et/app/Common/Modle/ModleRoom.luac" : {
+			"md5" : "3a6c5f66c8824b88a2ba9f685a381844"
+		}, 
+		"src_et/app/Common/Modle/ModleSelfUser.luac" : {
+			"md5" : "751d6b1b4ee54c43964310920b275007"
+		}, 
+		"src_et/app/Common/NetMng/NetCmd.luac" : {
+			"md5" : "ecd5b0256ea9e8af7022e7b8446cee9b"
+		}, 
+		"src_et/app/Common/NetMng/NetCoinGameMng.luac" : {
+			"md5" : "c3ea16f098462ae428f69b00e37f8a44"
+		}, 
+		"src_et/app/Common/NetMng/NetLobbyMng.luac" : {
+			"md5" : "77b3098c6796dd5c2e5c01d38f94930c"
+		}, 
+		"src_et/app/Common/NetMng/NetLoginMng.luac" : {
+			"md5" : "bbb5f2cab1ff3bff59e90fa3b3f9372d"
+		}, 
+		"src_et/app/Common/NetMng/NetMngDDZ.luac" : {
+			"md5" : "737c92f7dde594c9f34d85b7d7e1ece8"
+		}, 
+		"src_et/app/Common/NetMng/NetMngMJAnQin.luac" : {
+			"md5" : "24e36e2c3794bdc8fd01398aa1740967"
+		}, 
+		"src_et/app/Common/NetMng/NetMngRoom.luac" : {
+			"md5" : "08ee7cbd63b0c3b6f99f913d3ab48fb9"
+		}, 
+		"src_et/app/Common/NetMng/ProtocolDDZ.luac" : {
+			"md5" : "692fd3c11e6e0b67a9fe42be98d617b4"
+		}, 
+		"src_et/app/Common/SDK/AppNative.luac" : {
+			"md5" : "94b4b8680ae33011ffa721d7ef5a4487"
+		}, 
+		"src_et/app/Common/SDK/C2LuaSystem.luac" : {
+			"md5" : "24f4c94771e2a36dc8bdc702645f7d2f"
+		}, 
+		"src_et/app/Common/SDK/J2LuaSystem.luac" : {
+			"md5" : "22c7ab038ed55b19e061fe1d31932aa1"
+		}, 
+		"src_et/app/Common/SDK/LuaCallNativeMng.luac" : {
+			"md5" : "1dd6c056da575989f6ecd2487fc84702"
+		}, 
+		"src_et/app/Common/SDK/NativeFanKui.luac" : {
+			"md5" : "8452639e726c596f6d4a071b7c9ba27d"
+		}, 
+		"src_et/app/Common/SDK/NativeGaoDe.luac" : {
+			"md5" : "bad157b60618ec46418fa45cece0e104"
+		}, 
+		"src_et/app/Common/SDK/NativeMeChuang.luac" : {
+			"md5" : "eff6b96a5a43ae9b10ed823b4f8d81fd"
+		}, 
+		"src_et/app/Common/SDK/NativeQQ.luac" : {
+			"md5" : "bd0f75afcd1d370b3bc56a1f84d21290"
+		}, 
+		"src_et/app/Common/SDK/NativeWeiBo.luac" : {
+			"md5" : "3aa29523a5c8bbf8580ccc2802f6ca15"
+		}, 
+		"src_et/app/Common/SDK/NativeWeiXin.luac" : {
+			"md5" : "06b5615d1f97cbde074f6f5dd82f2c4a"
+		}, 
+		"src_et/app/Common/SDK/NativeYaya.luac" : {
+			"md5" : "73d11bf2f2507399886dcf3cb2750279"
+		}, 
+		"src_et/app/Common/SDK/NativeZhiFuBao.luac" : {
+			"md5" : "163f9a3141350d25726ca688eddb8cab"
+		}, 
+		"src_et/app/Common/Tiles/DefineTile.luac" : {
+			"md5" : "a1f7508845ea2ab2e7499545308de898"
+		}, 
+		"src_et/app/Common/Tiles/LayerTileItemBottom.luac" : {
+			"md5" : "b3cf1fe2458fb486841737b3567d3229"
+		}, 
+		"src_et/app/Common/Tiles/LayerTileOut.luac" : {
+			"md5" : "d484d9dd23adb7ca6e4a814d4fb4bfe7"
+		}, 
+		"src_et/app/Common/Tiles/SpriteTile.luac" : {
+			"md5" : "16791e64a8c1bcfea3812839da7f7b71"
+		}, 
+		"src_et/app/Common/Tiles/SpriteTileOpen.luac" : {
+			"md5" : "35b64e5d050f395f073a06b80ee71fe0"
+		}, 
+		"src_et/app/Common/Tiles/SpriteTileStand.luac" : {
+			"md5" : "85d3936dafc747c9317cb8c8458745b3"
+		}, 
+		"src_et/app/Common/UIBase/SceneBase.luac" : {
+			"md5" : "a9de056ec0499044bddbdbaebb1eca35"
+		}, 
+		"src_et/app/Common/UIBase/UILockLayer.luac" : {
+			"md5" : "e644b7e3365579810037ea6d9fdcf82d"
+		}, 
+		"src_et/app/Common/UIBase/UIMaskLayer.luac" : {
+			"md5" : "abd89bc5d0b6eb592d82cedc25108bb9"
+		}, 
+		"src_et/app/Common/Utils/AnimUtils.luac" : {
+			"md5" : "255d237317162fe69d6097b4e1c7dab1"
+		}, 
+		"src_et/app/Common/Utils/BtnUtils.luac" : {
+			"md5" : "e5b7945fe9a316582ee9c924caf2335f"
+		}, 
+		"src_et/app/Common/Utils/DebugUtils.luac" : {
+			"md5" : "067a4ec1c6919e594566fcfcd8425e26"
+		}, 
+		"src_et/app/Common/Utils/FunUtils.luac" : {
+			"md5" : "baac5d1f5611162519eb4ca857b3c31c"
+		}, 
+		"src_et/app/Common/Utils/LabelUtils.luac" : {
+			"md5" : "e955fb357fb8503efea4d9ee5ed04067"
+		}, 
+		"src_et/app/Common/Utils/ShaderUtils.luac" : {
+			"md5" : "42220293f513bf86f0566f4d03038de7"
+		}, 
+		"src_et/app/Common/Utils/SpriteUtils.luac" : {
+			"md5" : "3b6135db8dfaf14237f7507c0309028c"
+		}, 
+		"src_et/app/Common/Utils/StringUtils.luac" : {
+			"md5" : "b1e0a70e1bcd9ac7c624ebdf56136870"
+		}, 
+		"src_et/app/Common/Utils/UIUtils.luac" : {
+			"md5" : "b78372235e328949b82b9f83d7a7e4dd"
+		}, 
+		"src_et/app/Core/Net/LuaMessagePack.luac" : {
+			"md5" : "025bce4b3fbe426ca04e308e3a84c7d9"
+		}, 
+		"src_et/app/Core/Net/SocketClient.luac" : {
+			"md5" : "4327a736c024cd41a7027a217d0ec35f"
+		}, 
+		"src_et/app/Core/Utils/BitOperation.luac" : {
+			"md5" : "9710aa78f32750bf7d885beb92f62374"
+		}, 
+		"src_et/app/Game/Scene/SceneDDZExNew.luac" : {
+			"md5" : "c2866e6d61a26fee855f047d83e6ea14"
+		}, 
+		"src_et/app/Game/Scene/SceneDDZSenior.luac" : {
+			"md5" : "733aaf39e37eb0483a59fcd55829fde3"
+		}, 
+		"src_et/app/Game/Scene/SceneLaunch.luac" : {
+			"md5" : "9ea87ac23ae0813c1dbb3b47b6e787c5"
+		}, 
+		"src_et/app/Game/Scene/SceneLobby.luac" : {
+			"md5" : "713868c763f5e97365885cc10566512b"
+		}, 
+		"src_et/app/Game/Scene/SceneLogin.luac" : {
+			"md5" : "c677bb58879bba15ed9cfb5ccb5a27cb"
+		}, 
+		"src_et/app/Game/Scene/SceneManager.luac" : {
+			"md5" : "3ba3ea8fc0008a1e6f4294066020608f"
+		}, 
+		"src_et/app/Game/Scene/SceneMJAnQingEx.luac" : {
+			"md5" : "6045bd2e08984f0dda6c61b41ffb9db6"
+		}, 
+		"src_et/app/Game/Scene/SceneMJHuaiBeiEx.luac" : {
+			"md5" : "41f76f8cefe4ea2a6c858a6913a99c73"
+		}, 
+		"src_et/app/Game/Scene/SceneUpdateX.luac" : {
+			"md5" : "9dd652bbb262eabdf36ee71e7a548f1d"
+		}, 
+		"src_et/app/Game/UI/UICommon/UILoadingTips.luac" : {
+			"md5" : "12ba114b9743f23a131792c9222e0926"
+		}, 
+		"src_et/app/Game/UI/UICommon/UINoticeTips.luac" : {
+			"md5" : "32244c55c9b9d4d15659b4bb7fef5050"
+		}, 
+		"src_et/app/Game/UI/UICommon/UINoticeTipsFCM.luac" : {
+			"md5" : "6c4bb059296c88cd8c3957fc41002c5e"
+		}, 
+		"src_et/app/Game/UI/UICommon/UIPeiPai.luac" : {
+			"md5" : "caaf32bc5b4130607efa59ee865fd68e"
+		}, 
+		"src_et/app/Game/UI/UICommon/UIPeiPaiPoker.luac" : {
+			"md5" : "315b3408319c164607960ba0824e1339"
+		}, 
+		"src_et/app/Game/UI/UICommon/UIServerDebug.luac" : {
+			"md5" : "52ef2c2bf5bb606409f9584ff73638a3"
+		}, 
+		"src_et/app/Game/UI/UICommon/UITemplate.luac" : {
+			"md5" : "d24dcc9b054e06378423ea870f73d796"
+		}, 
+		"src_et/app/Game/UI/UIGame/BetTDK/UISettlementFinal.luac" : {
+			"md5" : "16119709aa5a2837efc52e44337ce2bf"
+		}, 
+		"src_et/app/Game/UI/UIGame/BetTDK/UISettlementFinalLanGuo.luac" : {
+			"md5" : "88e46a3d92a8b554dbe52bf71dc29cde"
+		}, 
+		"src_et/app/Game/UI/UIGame/BetTDK/UISettlementOneRound.luac" : {
+			"md5" : "a90300a0c2e7bb66a6b5129baa512f94"
+		}, 
+		"src_et/app/Game/UI/UIGame/MJAnQing/MngPlayback.luac" : {
+			"md5" : "beb4679f6b8a9c8cd82c96bbc99e84c8"
+		}, 
+		"src_et/app/Game/UI/UIGame/MJAnQing/UIPlayback.luac" : {
+			"md5" : "4b186b1a6230696850eb77ccfb4fce62"
+		}, 
+		"src_et/app/Game/UI/UIGame/MJAnQing/UISettlementFinal.luac" : {
+			"md5" : "4014a05ac681bd900cf5858e30d286d7"
+		}, 
+		"src_et/app/Game/UI/UIGame/MJAnQing/UISettlementOneRound.luac" : {
+			"md5" : "8d9d52191577e4eebf79918d9f43dfec"
+		}, 
+		"src_et/app/Game/UI/UIGame/MJHuaiBei/MngPlayback.luac" : {
+			"md5" : "adc55f987ef145209dc984ff902e2b29"
+		}, 
+		"src_et/app/Game/UI/UIGame/MJHuaiBei/UIBetMultipleEx.luac" : {
+			"md5" : "e930057f87ab47aebdc30098d1e2c10b"
+		}, 
+		"src_et/app/Game/UI/UIGame/MJHuaiBei/UIPlayback.luac" : {
+			"md5" : "0c1e9d15633233a62e19045de338f1ed"
+		}, 
+		"src_et/app/Game/UI/UIGame/MJHuaiBei/UISettlementFinal.luac" : {
+			"md5" : "b2885b4e535de3eee636f9922eeeda27"
+		}, 
+		"src_et/app/Game/UI/UIGame/MJHuaiBei/UISettlementOneRound.luac" : {
+			"md5" : "172312920f0c9db0e805e35c014e1a51"
+		}, 
+		"src_et/app/Game/UI/UIGame/PokerDDZ/MngPlaybackClassic.luac" : {
+			"md5" : "54832dd00e8f807f8c93f6ae4a140a38"
+		}, 
+		"src_et/app/Game/UI/UIGame/PokerDDZ/MngPlaybackJiaoFen.luac" : {
+			"md5" : "953d6d62fa74b97d9bc0e10a85e38402"
+		}, 
+		"src_et/app/Game/UI/UIGame/PokerDDZ/UIPlaybackClassic.luac" : {
+			"md5" : "ed7276723ebb1e40021c6d2cfcd704f2"
+		}, 
+		"src_et/app/Game/UI/UIGame/PokerDDZ/UIPlaybackJiaoFen.luac" : {
+			"md5" : "bf19f2efa3bf74979cefac7cb6822f68"
+		}, 
+		"src_et/app/Game/UI/UIGame/PokerDDZ/UISettlementFinal.luac" : {
+			"md5" : "1ae1c7f67219f3f8560a31317fee6c7f"
+		}, 
+		"src_et/app/Game/UI/UIGame/PokerDDZ/UISettlementOneRound.luac" : {
+			"md5" : "d97eea33c4f2f241245ac32585461466"
+		}, 
+		"src_et/app/Game/UI/UIGame/UIGameComm/ItemSettlementFinal.luac" : {
+			"md5" : "52d4d8a451fe6e9f59de61e3665ca9b4"
+		}, 
+		"src_et/app/Game/UI/UIGame/UIGameComm/ItemSettlementOneRound.luac" : {
+			"md5" : "a3faf220964380d3b3159bd9d3c3edd2"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/RoomComm/NodeTopBarNew.luac" : {
+			"md5" : "e84394f1c11458dedd9cbe840a867482"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/RoomComm/NodeTopUI.luac" : {
+			"md5" : "5f9af33a0466392129dc0326ae69d156"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/RoomComm/NodeTopUIPoker.luac" : {
+			"md5" : "f211db3b051b1f0b49a33fcf89f37907"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/RoomComm/UIMJLayout.luac" : {
+			"md5" : "78013f7fa8111228404570f2d386f6ca"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/RoomComm/UIRoomInfo.luac" : {
+			"md5" : "9ca99574650c80a32c37c6439112fc4c"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/RoomComm/UIRoomInfoBottom.luac" : {
+			"md5" : "d8b2f0e94d93d85608cc05868159e597"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/RoomComm/UIRoomInfoExClass.luac" : {
+			"md5" : "9ca63ce7726129ec314785a53860aa85"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/RoomComm/UIRoomInfoUpper.luac" : {
+			"md5" : "ce863ef0ca7aa2a5c33446296aa984e6"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/RoomComm/UIRule.luac" : {
+			"md5" : "820a09ce712cd1e5a7549565c0adba4c"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/RoomComm/UISetBtnList.luac" : {
+			"md5" : "591d4308ce89e7301d7b93a773b3d8cf"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/UIChat.luac" : {
+			"md5" : "dcdcc7b1a61a2a1268c7d5cd2e51223c"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/UIChatNew.luac" : {
+			"md5" : "b3656d61ca24c88cd3e437ff81f625ec"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/UIDissolution.luac" : {
+			"md5" : "6c31538dd0c83f1c58202caf4ff623da"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/UIDistance.luac" : {
+			"md5" : "c6a587a6e8ccaa1d5133f1a6021a6306"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/UIHead/UIHeadBase.luac" : {
+			"md5" : "a54c5dd2f33b699f4f5dbd7586cc160e"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/UIHead/UIHeadDirection.luac" : {
+			"md5" : "2ced43977f94949f2d67e75d032975ee"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/UIHead/UIHeadDirectionPoker.luac" : {
+			"md5" : "4d41c3bf5694c7fd02a5132471138ebc"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/UIHead/UIHeadLayout.luac" : {
+			"md5" : "ab8013006c9e8dbdba3f0dd2e251fc7d"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/UIHead/UIHeadLayoutPoker.luac" : {
+			"md5" : "91fe0aee6ade488418a52f3c343e20b9"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/UIPlayerInfo.luac" : {
+			"md5" : "66b306538d1e1035bba4e3d12137b026"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/UIPlayerInfoTips.luac" : {
+			"md5" : "c2e326fe6252d90e81f82c37a822b4a0"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/VoicePlay.luac" : {
+			"md5" : "1ab3f083bb52438ccc040f2d387ccf42"
+		}, 
+		"src_et/app/Game/UI/UIIRoom/VoiceTip.luac" : {
+			"md5" : "d7395cf3b2ee5e449440a6b89816d46a"
+		}, 
+		"src_et/app/Game/UI/UILobby/BigWinMatch/UIBigWinMatch.luac" : {
+			"md5" : "44eee912149d972774e95b566a7cf6df"
+		}, 
+		"src_et/app/Game/UI/UILobby/BigWinMatch/UIBigWinMatchRule.luac" : {
+			"md5" : "0e4225c1888736b7ea9bec0c01128181"
+		}, 
+		"src_et/app/Game/UI/UILobby/BigWinMatch/UIBigWinRecord.luac" : {
+			"md5" : "8cd1e00c795e3da3b7826530d59da781"
+		}, 
+		"src_et/app/Game/UI/UILobby/BigWinMatch/UICertificate.luac" : {
+			"md5" : "d382db0268c23f1c7e1bc0ac81cc7e1d"
+		}, 
+		"src_et/app/Game/UI/UILobby/Club/ClubCreate.luac" : {
+			"md5" : "b7bf06301d2df802ab25d9891458b841"
+		}, 
+		"src_et/app/Game/UI/UILobby/Club/ClubCreateRoom.luac" : {
+			"md5" : "3553914cb809cbf70a276ec18b8f37ed"
+		}, 
+		"src_et/app/Game/UI/UILobby/Club/ClubCreateTip.luac" : {
+			"md5" : "89e2ac578a6a9eb596824c884abdd500"
+		}, 
+		"src_et/app/Game/UI/UILobby/Club/ClubJoin.luac" : {
+			"md5" : "b3861faec306d867bec5d6df4ae238fc"
+		}, 
+		"src_et/app/Game/UI/UILobby/Club/ClubMyAll.luac" : {
+			"md5" : "2b140d8a69880981455a11300aa43340"
+		}, 
+		"src_et/app/Game/UI/UILobby/Club/ClubMyOne.luac" : {
+			"md5" : "8e12af730a77f8b7e32d38aabb2ccc32"
+		}, 
+		"src_et/app/Game/UI/UILobby/Club/ClubRecord.luac" : {
+			"md5" : "71838fd1bbd840bdec30f2f1812b2f7b"
+		}, 
+		"src_et/app/Game/UI/UILobby/Coin/NodeCoinBtnListUI.luac" : {
+			"md5" : "da4730a81e3b1438b2985007de404d06"
+		}, 
+		"src_et/app/Game/UI/UILobby/Coin/NodeCoinRuleUI.luac" : {
+			"md5" : "873b76679e6e090b33c0fe8934198218"
+		}, 
+		"src_et/app/Game/UI/UILobby/Coin/UICoinExchange.luac" : {
+			"md5" : "fa976ab372e0df751968ec8e9cb9c12f"
+		}, 
+		"src_et/app/Game/UI/UILobby/Coin/UICoinExchangeTip.luac" : {
+			"md5" : "264b94bf09e93af80d30fb961d22896e"
+		}, 
+		"src_et/app/Game/UI/UILobby/Coin/UICoinMain.luac" : {
+			"md5" : "acf49ca1f2edf328e09739be1119728f"
+		}, 
+		"src_et/app/Game/UI/UILobby/CreateRoom/RuleAnQing.luac" : {
+			"md5" : "9aa2c0a25d0b87a95bbe694567d81e79"
+		}, 
+		"src_et/app/Game/UI/UILobby/CreateRoom/RuleDDZ.luac" : {
+			"md5" : "16f64ad236e1993044992159dfbc02ae"
+		}, 
+		"src_et/app/Game/UI/UILobby/CreateRoom/RuleHuaiBei.luac" : {
+			"md5" : "2d1e264482efafd6d465d1e1ccec4f82"
+		}, 
+		"src_et/app/Game/UI/UILobby/CreateRoom/UICreateRoom.luac" : {
+			"md5" : "6f6bc3b078f6ba843e322e2e1b7e2158"
+		}, 
+		"src_et/app/Game/UI/UILobby/CreateRoom/UICreateRoomMJ.luac" : {
+			"md5" : "ffc313e2cff057c952868316ee6e1e76"
+		}, 
+		"src_et/app/Game/UI/UILobby/CreateRoom/UICreateRoomPoker.luac" : {
+			"md5" : "58c36add014966f79d0ba0fc3c3d2a02"
+		}, 
+		"src_et/app/Game/UI/UILobby/Item/ItemAgentRoom.luac" : {
+			"md5" : "b6f99f738fd105254b694f75ddb021bb"
+		}, 
+		"src_et/app/Game/UI/UILobby/Item/ItemBigWinMatch.luac" : {
+			"md5" : "675cdec456d0d3d5b9ec661e98d70b7a"
+		}, 
+		"src_et/app/Game/UI/UILobby/Item/ItemBigWinRecord.luac" : {
+			"md5" : "c0f2dd7d6166bf6d24bb44f199d782d3"
+		}, 
+		"src_et/app/Game/UI/UILobby/Item/ItemChatExp.luac" : {
+			"md5" : "66281eb517ab15688803f9e6d99e991f"
+		}, 
+		"src_et/app/Game/UI/UILobby/Item/ItemChatSpeak.luac" : {
+			"md5" : "4655b70d62f58754e48c7dc1ff5184f0"
+		}, 
+		"src_et/app/Game/UI/UILobby/Item/ItemClubMyAll.luac" : {
+			"md5" : "8c28d942a86f3a12cf57e8859d62d9b0"
+		}, 
+		"src_et/app/Game/UI/UILobby/Item/ItemClubMyMember.luac" : {
+			"md5" : "1de4ff81f7d9b0410e3cab9cfad1d958"
+		}, 
+		"src_et/app/Game/UI/UILobby/Item/ItemClubMyRoom.luac" : {
+			"md5" : "bcdcf90358643bca387d5c7e89d4b92e"
+		}, 
+		"src_et/app/Game/UI/UILobby/Item/ItemClubRecord.luac" : {
+			"md5" : "c821c67e168be579e84bd77199b4b798"
+		}, 
+		"src_et/app/Game/UI/UILobby/Item/ItemCoinExchange.luac" : {
+			"md5" : "0edcdeb5fd1001a560210482bbc7c0bd"
+		}, 
+		"src_et/app/Game/UI/UILobby/Item/ItemCoinMain.luac" : {
+			"md5" : "dbc6f77bfddef305fe8b1a27f21711ef"
+		}, 
+		"src_et/app/Game/UI/UILobby/Item/ItemMail.luac" : {
+			"md5" : "54e56d5b9410b4c9e909a5e1581724bd"
+		}, 
+		"src_et/app/Game/UI/UILobby/Item/ItemVideoPlay.luac" : {
+			"md5" : "f8dd12128387f7edea41aff32664f0d6"
+		}, 
+		"src_et/app/Game/UI/UILobby/Item/ItemVideoPlayDetail.luac" : {
+			"md5" : "9b898f566d840f4e0c5317a3248699e2"
+		}, 
+		"src_et/app/Game/UI/UILobby/NodeMarquee.luac" : {
+			"md5" : "d7256dc928994cdd86293579abb5abce"
+		}, 
+		"src_et/app/Game/UI/UILobby/UIActivity.luac" : {
+			"md5" : "12ab7efffde3b43f252e1154d41a54cc"
+		}, 
+		"src_et/app/Game/UI/UILobby/UIAgentRoom.luac" : {
+			"md5" : "913df8f56944b3d762664279ae22b95d"
+		}, 
+		"src_et/app/Game/UI/UILobby/UIAgreement.luac" : {
+			"md5" : "eef54070f36705862ee9cec037341d02"
+		}, 
+		"src_et/app/Game/UI/UILobby/UIBuyCard.luac" : {
+			"md5" : "6d2b8ed0bbbc5814144b2b5ea267188a"
+		}, 
+		"src_et/app/Game/UI/UILobby/UIHelp.luac" : {
+			"md5" : "73d42314b513a9bea5879cd3be3e8cf6"
+		}, 
+		"src_et/app/Game/UI/UILobby/UIJoinRoom.luac" : {
+			"md5" : "4767b6abcf3b1a9e806ccb24c0473b32"
+		}, 
+		"src_et/app/Game/UI/UILobby/UILobbyBottomTop.luac" : {
+			"md5" : "13da92d24967737827970e5f0c6bfc94"
+		}, 
+		"src_et/app/Game/UI/UILobby/UILobbyCenter.luac" : {
+			"md5" : "0c6104a7cdcde292f68e23f7255d2892"
+		}, 
+		"src_et/app/Game/UI/UILobby/UIMessage.luac" : {
+			"md5" : "bb488d2d51d76ef8747a512888e103c7"
+		}, 
+		"src_et/app/Game/UI/UILobby/UISetting.luac" : {
+			"md5" : "8380515110f5004784da4fc4e314b6e1"
+		}, 
+		"src_et/app/Game/UI/UILobby/UIShare.luac" : {
+			"md5" : "f6d3bfa112fe97f025287def1a57cde0"
+		}, 
+		"src_et/app/Game/UI/UILobby/UIShareAll.luac" : {
+			"md5" : "289950c8dbf1a7e50fad308e7ef12cc5"
+		}, 
+		"src_et/app/Game/UI/UILobby/UIShop.luac" : {
+			"md5" : "f55ee8ba422f8cc40d1ea42847c1468f"
+		}, 
+		"src_et/app/Game/UI/UILobby/UIUpdateVersion.luac" : {
+			"md5" : "9206b116e365e4d7ea4aa75390d75575"
+		}, 
+		"src_et/app/Game/UI/UILobby/UIVideoPlay.luac" : {
+			"md5" : "5708c1d0a73e7bf9ecb9a1f273ce7d7a"
+		}, 
+		"src_et/app/Game/UI/UILobby/UIVideoPlayDetail.luac" : {
+			"md5" : "65f680f1141d6bdd134910aeb3d1f12c"
+		}, 
+		"src_et/app/Game/UI/UITools/UIDebugLog.luac" : {
+			"md5" : "b862c61b4ccd66f99a8bdf6f34ba5bd9"
+		}, 
+		"src_et/app/Game/UI/UITools/UIGMSelect.luac" : {
+			"md5" : "4d6a5ed24e8c84fa34d2d1e662eb2836"
+		}, 
+		"src_et/app/GameConfig.luac" : {
+			"md5" : "b7ef7b5ae873e4e084c8674c24b294c9"
+		}, 
+		"src_et/app/Init.luac" : {
+			"md5" : "8613b665ba3d666be31665b19cd27d6e"
+		}, 
+		"src_et/app/MyApp.luac" : {
+			"md5" : "30c933cba1724484e255b4cb44a70d76"
+		}, 
+		"src_et/cocos/3d/3dConstants.luac" : {
+			"md5" : "a0706f3c03c778db56eb10e92950fb22"
+		}, 
+		"src_et/cocos/cocos2d/bitExtend.luac" : {
+			"md5" : "f7bfb9cccf6e28d6eaee74cec7f3360d"
+		}, 
+		"src_et/cocos/cocos2d/Cocos2d.luac" : {
+			"md5" : "02cfda14c7b199c0105a839940556d88"
+		}, 
+		"src_et/cocos/cocos2d/Cocos2dConstants.luac" : {
+			"md5" : "97cfdf9947a858d023686dee2ec37d38"
+		}, 
+		"src_et/cocos/cocos2d/deprecated.luac" : {
+			"md5" : "745f6ce2c6d7d37aa19ea1bbb64f4bb3"
+		}, 
+		"src_et/cocos/cocos2d/DeprecatedCocos2dClass.luac" : {
+			"md5" : "2d2fb629b1fd3a5805226a6d9f9a85d7"
+		}, 
+		"src_et/cocos/cocos2d/DeprecatedCocos2dEnum.luac" : {
+			"md5" : "cb26a974786530f919bfd174bbd1f04f"
+		}, 
+		"src_et/cocos/cocos2d/DeprecatedCocos2dFunc.luac" : {
+			"md5" : "420ac153277b47808fed27f5500ffcbd"
+		}, 
+		"src_et/cocos/cocos2d/DeprecatedOpenglEnum.luac" : {
+			"md5" : "f3f43d771e9f65f474505586905f47b7"
+		}, 
+		"src_et/cocos/cocos2d/DrawPrimitives.luac" : {
+			"md5" : "3b249d6fe49c057b36fb721cb1eac88e"
+		}, 
+		"src_et/cocos/cocos2d/functions.luac" : {
+			"md5" : "3dde32d65303cb8b0b4448a63c2db13a"
+		}, 
+		"src_et/cocos/cocos2d/json.luac" : {
+			"md5" : "08a568eef6f17945c8b457615b50b044"
+		}, 
+		"src_et/cocos/cocos2d/luaj.luac" : {
+			"md5" : "22306ecc447457db5788869ec6c2c34f"
+		}, 
+		"src_et/cocos/cocos2d/luaoc.luac" : {
+			"md5" : "2b1210a80ed9eaa167323b57f06845b7"
+		}, 
+		"src_et/cocos/cocos2d/Opengl.luac" : {
+			"md5" : "88ab334b465a1eb0225c15add494c05b"
+		}, 
+		"src_et/cocos/cocos2d/OpenglConstants.luac" : {
+			"md5" : "88fe7052ea9e3b20212fca9985e54206"
+		}, 
+		"src_et/cocos/cocosbuilder/CCBReaderLoad.luac" : {
+			"md5" : "e86b8bd66b0ebdfc12102a4f7aebad4d"
+		}, 
+		"src_et/cocos/cocosbuilder/DeprecatedCocosBuilderClass.luac" : {
+			"md5" : "977fb7fdf4c972b9cdf4725b8a5fec77"
+		}, 
+		"src_et/cocos/cocosdenshion/AudioEngine.luac" : {
+			"md5" : "48d281b0d3199e4ecb49e2e7bc5716c3"
+		}, 
+		"src_et/cocos/cocosdenshion/DeprecatedCocosDenshionClass.luac" : {
+			"md5" : "1d2a289e2317c861b952e68bd8311af9"
+		}, 
+		"src_et/cocos/cocosdenshion/DeprecatedCocosDenshionFunc.luac" : {
+			"md5" : "fdac309dac1632cd1c7f1028e332d075"
+		}, 
+		"src_et/cocos/cocostudio/CocoStudio.luac" : {
+			"md5" : "0d5a33c356668ace3c1923f9493173ae"
+		}, 
+		"src_et/cocos/cocostudio/DeprecatedCocoStudioClass.luac" : {
+			"md5" : "73dd9124510f2f64e3de70761ceffa62"
+		}, 
+		"src_et/cocos/cocostudio/DeprecatedCocoStudioFunc.luac" : {
+			"md5" : "8ddbef981caf9f22478b5a23168b74b2"
+		}, 
+		"src_et/cocos/cocostudio/StudioConstants.luac" : {
+			"md5" : "607b25899b8c232d9ac54653b495bc5d"
+		}, 
+		"src_et/cocos/controller/ControllerConstants.luac" : {
+			"md5" : "d2af44f003f15963346952cba613706f"
+		}, 
+		"src_et/cocos/extension/DeprecatedExtensionClass.luac" : {
+			"md5" : "a587eddb00f2605189e5dcc3889f7c85"
+		}, 
+		"src_et/cocos/extension/DeprecatedExtensionEnum.luac" : {
+			"md5" : "27d3b5a581893b8c018c931cd9fb849e"
+		}, 
+		"src_et/cocos/extension/DeprecatedExtensionFunc.luac" : {
+			"md5" : "c946be07a3c208326fb445d3297b4662"
+		}, 
+		"src_et/cocos/extension/ExtensionConstants.luac" : {
+			"md5" : "4bc35912c01f90d2ed8472facab18c79"
+		}, 
+		"src_et/cocos/framework/audio.luac" : {
+			"md5" : "2725c84058fdaae534d44941e4140dd7"
+		}, 
+		"src_et/cocos/framework/components/event.luac" : {
+			"md5" : "ff0a0e6bfcad42bd38dcc992fca905f9"
+		}, 
+		"src_et/cocos/framework/device.luac" : {
+			"md5" : "4ba6521d9e202009fb5953e7223c2375"
+		}, 
+		"src_et/cocos/framework/display.luac" : {
+			"md5" : "a346540f1d34796cf838c11b8acfb8c5"
+		}, 
+		"src_et/cocos/framework/extends/LayerEx.luac" : {
+			"md5" : "5306ffff6dd1d2f80b23b21a6adfea5b"
+		}, 
+		"src_et/cocos/framework/extends/MenuEx.luac" : {
+			"md5" : "a6102e8ab7d537b8db45a6871d1e7c67"
+		}, 
+		"src_et/cocos/framework/extends/NodeEx.luac" : {
+			"md5" : "3a4dd54d0295ec0fc3ca82f35018f081"
+		}, 
+		"src_et/cocos/framework/extends/SpriteEx.luac" : {
+			"md5" : "ba42d6464865134e13c8f81753d814aa"
+		}, 
+		"src_et/cocos/framework/extends/UICheckBox.luac" : {
+			"md5" : "a3fb43a2b5bf22c4918652a4f97e6d30"
+		}, 
+		"src_et/cocos/framework/extends/UIEditBox.luac" : {
+			"md5" : "81049da03682e378b61bec27ee2cd43b"
+		}, 
+		"src_et/cocos/framework/extends/UIListView.luac" : {
+			"md5" : "5fa6cf7c72a0832bde04239e037596b1"
+		}, 
+		"src_et/cocos/framework/extends/UIPageView.luac" : {
+			"md5" : "e409ccc2a7a60042dd0b9d8a901e9572"
+		}, 
+		"src_et/cocos/framework/extends/UIScrollView.luac" : {
+			"md5" : "836331a1445b3c6085a1f666ec9e4273"
+		}, 
+		"src_et/cocos/framework/extends/UISlider.luac" : {
+			"md5" : "06846932f529eb01a1dc6bb57893c750"
+		}, 
+		"src_et/cocos/framework/extends/UITextField.luac" : {
+			"md5" : "63bd53456b71a6d73391d113a4e1b232"
+		}, 
+		"src_et/cocos/framework/extends/UIWidget.luac" : {
+			"md5" : "5f596180ef91ccdf63f06660a5081d47"
+		}, 
+		"src_et/cocos/framework/init.luac" : {
+			"md5" : "25d48489b0bce092cffc793ec554f3fa"
+		}, 
+		"src_et/cocos/framework/package_support.luac" : {
+			"md5" : "87d8deb0e6fd84a7060ded6eead290f4"
+		}, 
+		"src_et/cocos/framework/transition.luac" : {
+			"md5" : "f306443f43e2957bef755e9e2d16eef2"
+		}, 
+		"src_et/cocos/init.luac" : {
+			"md5" : "5fd3ac362c4efdc12a218e8bec2958ee"
+		}, 
+		"src_et/cocos/network/DeprecatedNetworkClass.luac" : {
+			"md5" : "dca8e251f4c04856f76df799bb18a362"
+		}, 
+		"src_et/cocos/network/DeprecatedNetworkEnum.luac" : {
+			"md5" : "40a74db3884d7bddfef0766a33e44db8"
+		}, 
+		"src_et/cocos/network/DeprecatedNetworkFunc.luac" : {
+			"md5" : "5728f672190e05ce700563d91d7413d6"
+		}, 
+		"src_et/cocos/network/NetworkConstants.luac" : {
+			"md5" : "8e5558b7a5b479bbfbc51d0677bd2293"
+		}, 
+		"src_et/cocos/physics3d/physics3d-constants.luac" : {
+			"md5" : "d914dc9e82e3a2f76d2eaf289521b18c"
+		}, 
+		"src_et/cocos/spine/SpineConstants.luac" : {
+			"md5" : "0a9a3d9c9758b2f1e97c84ecde46e1f9"
+		}, 
+		"src_et/cocos/ui/DeprecatedUIEnum.luac" : {
+			"md5" : "dacef17f03bec41e565b99c2ee730610"
+		}, 
+		"src_et/cocos/ui/DeprecatedUIFunc.luac" : {
+			"md5" : "6aacaea11fedd1d9d819e27937eb18f2"
+		}, 
+		"src_et/cocos/ui/experimentalUIConstants.luac" : {
+			"md5" : "8ae213af549a93d29ddd0dc5b98db929"
+		}, 
+		"src_et/cocos/ui/GuiConstants.luac" : {
+			"md5" : "a39d53c915858b75378990390e5a2986"
+		}, 
+		"src_et/config.luac" : {
+			"md5" : "554cce469aff2bc741bbb18c174378f7"
+		}, 
+		"src_et/main.luac" : {
+			"md5" : "d8d11ec847115c1beefa8bbc6b3964b8"
+		}, 
+		"src_et/packages/mvc/AppBase.luac" : {
+			"md5" : "c29b3b8a377c44c2e774f941eeeb0a3f"
+		}, 
+		"src_et/packages/mvc/init.luac" : {
+			"md5" : "e4cd7769e778435422db9175fb553233"
+		}, 
+		"src_et/packages/mvc/ViewBase.luac" : {
+			"md5" : "5fe82037ad00089c5387632168014bb9"
+		}
+    },
+    "searchPaths" : [
+    ]
+}
