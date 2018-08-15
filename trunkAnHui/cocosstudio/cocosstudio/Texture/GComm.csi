@@ -1,0 +1,26 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="GComm" Type="Plist" ID="11052ea9-acbc-440a-9686-d65960b93ccb" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/GComm/comm_bg_float.png" />
+      <FilePathData Path="Image/GComm/comm_bg_input.png" />
+      <FilePathData Path="Image/GComm/comm_bg_item.png" />
+      <FilePathData Path="Image/GComm/comm_bg_loading.png" />
+      <FilePathData Path="Image/GComm/comm_btn_cancel.png" />
+      <FilePathData Path="Image/GComm/comm_btn_check_bg.png" />
+      <FilePathData Path="Image/GComm/comm_btn_check_select.png" />
+      <FilePathData Path="Image/GComm/comm_btn_choose_normal.png" />
+      <FilePathData Path="Image/GComm/comm_btn_choose_select.png" />
+      <FilePathData Path="Image/GComm/comm_btn_close.png" />
+      <FilePathData Path="Image/GComm/comm_btn_ok.png" />
+      <FilePathData Path="Image/GComm/comm_head_frame.png" />
+      <FilePathData Path="Image/GComm/comm_head_icon.png" />
+      <FilePathData Path="Image/GComm/comm_icon_shaizi.png" />
+      <FilePathData Path="Image/GComm/comm_icon_white_circle.png" />
+      <FilePathData Path="Image/GComm/comm_title_tip.png" />
+      <FilePathData Path="Image/GComm/comm_line.png" />
+      <FilePathData Path="Image/GComm/Coin_coin.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

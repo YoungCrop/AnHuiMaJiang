@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UIShop" Type="Plist" ID="7bee9ab9-cff3-4fd1-8334-615f204298a4" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/ILobby/UIShop/shop_bg_item.png" />
+      <FilePathData Path="Image/ILobby/UIShop/shop_btn_buy.png" />
+      <FilePathData Path="Image/ILobby/UIShop/shop_btn_copy.png" />
+      <FilePathData Path="Image/ILobby/UIShop/shop_fangka_more.png" />
+      <FilePathData Path="Image/ILobby/UIShop/shop_fangka_one.png" />
+      <FilePathData Path="Image/ILobby/UIShop/shop_fangka_two.png" />
+      <FilePathData Path="Image/ILobby/UIShop/shop_item_select.png" />
+      <FilePathData Path="Image/ILobby/UIShop/shop_title.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

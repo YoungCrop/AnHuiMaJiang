@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UIMessage" Type="Plist" ID="1698c6d7-dee7-4e4d-8815-9f09d2ea63e8" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/ILobby/UIMessage/btn_fcm_disable.png" />
+      <FilePathData Path="Image/ILobby/UIMessage/btn_fcm_normal.png" />
+      <FilePathData Path="Image/ILobby/UIMessage/btn_jubao_disable.png" />
+      <FilePathData Path="Image/ILobby/UIMessage/btn_jubao_normal.png" />
+      <FilePathData Path="Image/ILobby/UIMessage/btn_msg_disable.png" />
+      <FilePathData Path="Image/ILobby/UIMessage/btn_msg_normal.png" />
+      <FilePathData Path="Image/ILobby/UIMessage/btn_yxsm_disable.png" />
+      <FilePathData Path="Image/ILobby/UIMessage/btn_yxsm_normal.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,22 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UIJoinRoom" Type="Plist" ID="da71d09b-c485-4301-8629-ad74cca68871" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/ILobby/UIJoinRoom/join_bg_txt.png" />
+      <FilePathData Path="Image/ILobby/UIJoinRoom/join_btn_0.png" />
+      <FilePathData Path="Image/ILobby/UIJoinRoom/join_btn_1.png" />
+      <FilePathData Path="Image/ILobby/UIJoinRoom/join_btn_2.png" />
+      <FilePathData Path="Image/ILobby/UIJoinRoom/join_btn_3.png" />
+      <FilePathData Path="Image/ILobby/UIJoinRoom/join_btn_4.png" />
+      <FilePathData Path="Image/ILobby/UIJoinRoom/join_btn_5.png" />
+      <FilePathData Path="Image/ILobby/UIJoinRoom/join_btn_6.png" />
+      <FilePathData Path="Image/ILobby/UIJoinRoom/join_btn_7.png" />
+      <FilePathData Path="Image/ILobby/UIJoinRoom/join_btn_8.png" />
+      <FilePathData Path="Image/ILobby/UIJoinRoom/join_btn_9.png" />
+      <FilePathData Path="Image/ILobby/UIJoinRoom/join_btn_delete.png" />
+      <FilePathData Path="Image/ILobby/UIJoinRoom/join_btn_reset.png" />
+      <FilePathData Path="Image/ILobby/UIJoinRoom/join_title.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

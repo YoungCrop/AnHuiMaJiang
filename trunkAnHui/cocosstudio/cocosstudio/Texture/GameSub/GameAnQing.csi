@@ -1,0 +1,29 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="GameAnQing" Type="Plist" ID="c16f81f3-b66d-4b89-88a0-8d4adf52cfc0" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_bh_b_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_bh_bg_01_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_bh_bg_02_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_bh_bg_03_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_bh_bg_04_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_bh_h_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_sbfb_b_ah.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_sbfb_f_ah.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_sbfb_s_ah.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_cpg_bg_01_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_cpg_bg_02_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_cpg_bg_03_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_cpg_bg_04_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_cpg_bg_05_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_cpg_c_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_cpg_g_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_cpg_p_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_pjjg_lj_01_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_pjjg_lj_02_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_pjjg_lj_03_all.png" />
+      <FilePathData Path="Image/GameSub/GameAnQing/effect_hp_zm_all.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

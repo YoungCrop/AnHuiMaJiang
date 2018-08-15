@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UIVideoPlay" Type="Plist" ID="b98bd5a5-583e-4b30-99ea-edb8cea3cbea" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedio_btn_cancle.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedio_btn_ok.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedio_btn_play.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedio_btn_view.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedio_input_bg.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedio_item_bg.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedio_item_bg2.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedio_line.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedio_title.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedio_view_input_bg.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedioLayer_bg_btn.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedioLayer_btn_goback.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedioLayer_btn_gofast.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedioLayer_btn_pause.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedioLayer_btn_play.png" />
+      <FilePathData Path="Image/ILobby/UIVideoPlay/vedioLayer_btn_return.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

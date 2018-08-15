@@ -1,0 +1,22 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UICreateRoom" Type="Plist" ID="62eba8b9-d013-49e7-a2f7-6f590d635cc1" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/ILobby/UICreateRoom/btn_anqing_down.png" />
+      <FilePathData Path="Image/ILobby/UICreateRoom/btn_anqing_up.png" />
+      <FilePathData Path="Image/ILobby/UICreateRoom/btn_ddz_down.png" />
+      <FilePathData Path="Image/ILobby/UICreateRoom/btn_ddz_up.png" />
+      <FilePathData Path="Image/ILobby/UICreateRoom/btn_huaibei_down.png" />
+      <FilePathData Path="Image/ILobby/UICreateRoom/btn_huaibei_up.png" />
+      <FilePathData Path="Image/ILobby/UICreateRoom/table_btn_agenttable.png" />
+      <FilePathData Path="Image/ILobby/UICreateRoom/table_btn_createRoom.png" />
+      <FilePathData Path="Image/ILobby/UICreateRoom/table_item_bg.png" />
+      <FilePathData Path="Image/ILobby/UICreateRoom/table_line.png" />
+      <FilePathData Path="Image/ILobby/UICreateRoom/title_create_room.png" />
+      <FilePathData Path="Image/ILobby/UICreateRoom/title_rule.png" />
+      <FilePathData Path="Image/ILobby/UICreateRoom/btn_anhui_down.png" />
+      <FilePathData Path="Image/ILobby/UICreateRoom/btn_anhui_up.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

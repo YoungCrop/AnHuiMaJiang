@@ -1,0 +1,55 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="CommomRoom" Type="Plist" ID="225d4915-8588-4d2b-9bab-74157f8e56c4" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/IRoom/CommomRoom/comm_btn_ready.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/comm_btn_relogin.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_btn_backLobby.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_btn_setting.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_btn_showHucards.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_card_bg.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_circle.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_direct.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_direct_to.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_direct2.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_btn_dismiss.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_btn_gameover.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_icon_fang.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_icon_offline.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_icon_ting.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_icon_zhuang.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_btn_invert.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_btn_rule_out.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_outmjtile_sign.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_ready.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_titlebar_bg1.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_btn_copy_roomID.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_which_direct.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_bg_gameID.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_bg_rule.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_btn_rule_in.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_btn_fzb.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_wifi_signal0.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_wifi_signal1.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_wifi_signal2.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_wifi_signal3.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_wifi_signal4.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_elec_bg.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_elec_value.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_ting_arrow.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_flag_tuoguan.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_icon_tuoguan.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_btn_qxtg.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_btn_tuoguan.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_round_liuJu.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_round_shengLi.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_bg_ting_tip.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_comm_bg_round.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_comm_bg_round_up.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_comm_btn_setting.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_txt_ting.png" />
+      <FilePathData Path="Image/IRoom/CommomRoom/game_comm_bg_rule.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

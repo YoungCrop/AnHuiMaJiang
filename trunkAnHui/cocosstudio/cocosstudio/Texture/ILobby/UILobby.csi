@@ -1,0 +1,36 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UILobby" Type="Plist" ID="517bd9db-ac84-4392-8411-37cd23d56954" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_add.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_bg.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_copy_id.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_copy_txt.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_help.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_history.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_msg.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_recharge.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_setting.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_share.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_shiming.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_shuru.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_turntable.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_icon_guang.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_icon_key.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_id_bg.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_laba.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_laba_bg.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_logo.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_notice_bg.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_notice_bg_btn.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_title_msg.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_club_new.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_coin_new.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_create_mj_new.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_create_poker_new.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_game_field_new.png" />
+      <FilePathData Path="Image/ILobby/UILobby/lobby_btn_join_room_new.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

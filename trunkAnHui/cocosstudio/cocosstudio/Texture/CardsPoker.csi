@@ -1,0 +1,71 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="CardsPoker" Type="Plist" ID="6e02c525-b34f-4542-b2e0-e1acd11563f3" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/CardsPoker/p_landlord_icon.png" />
+      <FilePathData Path="Image/CardsPoker/p0_0.png" />
+      <FilePathData Path="Image/CardsPoker/p1_1.png" />
+      <FilePathData Path="Image/CardsPoker/p1_10.png" />
+      <FilePathData Path="Image/CardsPoker/p1_11.png" />
+      <FilePathData Path="Image/CardsPoker/p1_12.png" />
+      <FilePathData Path="Image/CardsPoker/p1_13.png" />
+      <FilePathData Path="Image/CardsPoker/p1_2.png" />
+      <FilePathData Path="Image/CardsPoker/p1_3.png" />
+      <FilePathData Path="Image/CardsPoker/p1_4.png" />
+      <FilePathData Path="Image/CardsPoker/p1_5.png" />
+      <FilePathData Path="Image/CardsPoker/p1_6.png" />
+      <FilePathData Path="Image/CardsPoker/p1_7.png" />
+      <FilePathData Path="Image/CardsPoker/p1_8.png" />
+      <FilePathData Path="Image/CardsPoker/p1_9.png" />
+      <FilePathData Path="Image/CardsPoker/p2_1.png" />
+      <FilePathData Path="Image/CardsPoker/p2_10.png" />
+      <FilePathData Path="Image/CardsPoker/p2_11.png" />
+      <FilePathData Path="Image/CardsPoker/p2_12.png" />
+      <FilePathData Path="Image/CardsPoker/p2_13.png" />
+      <FilePathData Path="Image/CardsPoker/p2_2.png" />
+      <FilePathData Path="Image/CardsPoker/p2_3.png" />
+      <FilePathData Path="Image/CardsPoker/p2_4.png" />
+      <FilePathData Path="Image/CardsPoker/p2_5.png" />
+      <FilePathData Path="Image/CardsPoker/p2_6.png" />
+      <FilePathData Path="Image/CardsPoker/p2_7.png" />
+      <FilePathData Path="Image/CardsPoker/p2_8.png" />
+      <FilePathData Path="Image/CardsPoker/p2_9.png" />
+      <FilePathData Path="Image/CardsPoker/p3_1.png" />
+      <FilePathData Path="Image/CardsPoker/p3_10.png" />
+      <FilePathData Path="Image/CardsPoker/p3_11.png" />
+      <FilePathData Path="Image/CardsPoker/p3_12.png" />
+      <FilePathData Path="Image/CardsPoker/p3_13.png" />
+      <FilePathData Path="Image/CardsPoker/p3_2.png" />
+      <FilePathData Path="Image/CardsPoker/p3_3.png" />
+      <FilePathData Path="Image/CardsPoker/p3_4.png" />
+      <FilePathData Path="Image/CardsPoker/p3_5.png" />
+      <FilePathData Path="Image/CardsPoker/p3_6.png" />
+      <FilePathData Path="Image/CardsPoker/p3_7.png" />
+      <FilePathData Path="Image/CardsPoker/p3_8.png" />
+      <FilePathData Path="Image/CardsPoker/p3_9.png" />
+      <FilePathData Path="Image/CardsPoker/p4_1.png" />
+      <FilePathData Path="Image/CardsPoker/p4_10.png" />
+      <FilePathData Path="Image/CardsPoker/p4_11.png" />
+      <FilePathData Path="Image/CardsPoker/p4_12.png" />
+      <FilePathData Path="Image/CardsPoker/p4_13.png" />
+      <FilePathData Path="Image/CardsPoker/p4_2.png" />
+      <FilePathData Path="Image/CardsPoker/p4_3.png" />
+      <FilePathData Path="Image/CardsPoker/p4_4.png" />
+      <FilePathData Path="Image/CardsPoker/p4_5.png" />
+      <FilePathData Path="Image/CardsPoker/p4_6.png" />
+      <FilePathData Path="Image/CardsPoker/p4_7.png" />
+      <FilePathData Path="Image/CardsPoker/p4_8.png" />
+      <FilePathData Path="Image/CardsPoker/p4_9.png" />
+      <FilePathData Path="Image/CardsPoker/p5_1.png" />
+      <FilePathData Path="Image/CardsPoker/p5_2.png" />
+      <FilePathData Path="Image/CardsPoker/p6_1.png" />
+      <FilePathData Path="Image/CardsPoker/p6_15.png" />
+      <FilePathData Path="Image/CardsPoker/p6_16.png" />
+      <FilePathData Path="Image/CardsPoker/p7_1.png" />
+      <FilePathData Path="Image/CardsPoker/p8_1.png" />
+      <FilePathData Path="Image/CardsPoker/p9_1.png" />
+      <FilePathData Path="Image/CardsPoker/p5_14.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

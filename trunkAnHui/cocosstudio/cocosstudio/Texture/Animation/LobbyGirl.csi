@@ -1,0 +1,20 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="LobbyGirl" Type="Plist" ID="8e9bdf00-0a6d-40f4-b4dc-5da2a6336117" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/Animation/LobbyGirl/effect_dt_girl_01_ah.png" />
+      <FilePathData Path="Image/Animation/LobbyGirl/effect_dt_girl_02_ah.png" />
+      <FilePathData Path="Image/Animation/LobbyGirl/effect_dt_girl_03_ah.png" />
+      <FilePathData Path="Image/Animation/LobbyGirl/effect_dt_girl_04_ah.png" />
+      <FilePathData Path="Image/Animation/LobbyGirl/effect_dt_girl_05_ah.png" />
+      <FilePathData Path="Image/Animation/LobbyGirl/effect_dt_girl_06_ah.png" />
+      <FilePathData Path="Image/Animation/LobbyGirl/effect_dt_girl_07_ah.png" />
+      <FilePathData Path="Image/Animation/LobbyGirl/effect_dt_girl_light_01_ah.png" />
+      <FilePathData Path="Image/Animation/LobbyGirl/effect_dt_huaban_1_ah.png" />
+      <FilePathData Path="Image/Animation/LobbyGirl/effect_dt_huaban_2_ah.png" />
+      <FilePathData Path="Image/Animation/LobbyGirl/effect_dt_girl_04_check.png" />
+      <FilePathData Path="Image/Animation/LobbyGirl/effect_dt_girl_06_check.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

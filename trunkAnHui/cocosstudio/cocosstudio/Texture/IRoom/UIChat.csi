@@ -1,0 +1,30 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UIChat" Type="Plist" ID="21416092-e595-42ac-8f03-86a8c926cf39" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/IRoom/UIChat/biaoqing1.png" />
+      <FilePathData Path="Image/IRoom/UIChat/biaoqing10.png" />
+      <FilePathData Path="Image/IRoom/UIChat/biaoqing11.png" />
+      <FilePathData Path="Image/IRoom/UIChat/biaoqing12.png" />
+      <FilePathData Path="Image/IRoom/UIChat/biaoqing2.png" />
+      <FilePathData Path="Image/IRoom/UIChat/biaoqing3.png" />
+      <FilePathData Path="Image/IRoom/UIChat/biaoqing4.png" />
+      <FilePathData Path="Image/IRoom/UIChat/biaoqing5.png" />
+      <FilePathData Path="Image/IRoom/UIChat/biaoqing6.png" />
+      <FilePathData Path="Image/IRoom/UIChat/biaoqing7.png" />
+      <FilePathData Path="Image/IRoom/UIChat/biaoqing8.png" />
+      <FilePathData Path="Image/IRoom/UIChat/biaoqing9.png" />
+      <FilePathData Path="Image/IRoom/UIChat/chat_bg.png" />
+      <FilePathData Path="Image/IRoom/UIChat/chat_bg_down.png" />
+      <FilePathData Path="Image/IRoom/UIChat/chat_bg_left.png" />
+      <FilePathData Path="Image/IRoom/UIChat/chat_bg_right.png" />
+      <FilePathData Path="Image/IRoom/UIChat/chat_bg_up.png" />
+      <FilePathData Path="Image/IRoom/UIChat/chat_btn_send.png" />
+      <FilePathData Path="Image/IRoom/UIChat/chat_img_bg_input.png" />
+      <FilePathData Path="Image/IRoom/UIChat/chat_img_biaoqing_bg.png" />
+      <FilePathData Path="Image/IRoom/UIChat/chat_item_bg_mid.png" />
+      <FilePathData Path="Image/IRoom/UIChat/chat_item_bg_up.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

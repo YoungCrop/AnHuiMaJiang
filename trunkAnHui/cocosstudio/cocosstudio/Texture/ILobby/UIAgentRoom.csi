@@ -1,0 +1,19 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UIAgentRoom" Type="Plist" ID="fce7f565-80c2-469d-87ba-f9664c55e4c5" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/ILobby/UIAgentRoom/agent_bg_btn.png" />
+      <FilePathData Path="Image/ILobby/UIAgentRoom/agent_bg_item.png" />
+      <FilePathData Path="Image/ILobby/UIAgentRoom/agent_btn_completed.png" />
+      <FilePathData Path="Image/ILobby/UIAgentRoom/agent_btn_copy_roomID.png" />
+      <FilePathData Path="Image/ILobby/UIAgentRoom/agent_btn_dissolve.png" />
+      <FilePathData Path="Image/ILobby/UIAgentRoom/agent_btn_invite.png" />
+      <FilePathData Path="Image/ILobby/UIAgentRoom/agent_btn_join.png" />
+      <FilePathData Path="Image/ILobby/UIAgentRoom/agent_btn_record.png" />
+      <FilePathData Path="Image/ILobby/UIAgentRoom/agent_btn_refersh.png" />
+      <FilePathData Path="Image/ILobby/UIAgentRoom/agent_icon_head.png" />
+      <FilePathData Path="Image/ILobby/UIAgentRoom/agent_title.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

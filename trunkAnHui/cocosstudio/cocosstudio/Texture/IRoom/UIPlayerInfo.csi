@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UIPlayerInfo" Type="Plist" ID="06a362f3-f7ac-4a4e-9c49-bdc7d229a4b7" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/IRoom/UIPlayerInfo/pi_bg.png" />
+      <FilePathData Path="Image/IRoom/UIPlayerInfo/pi_bg_item.png" />
+      <FilePathData Path="Image/IRoom/UIPlayerInfo/pi_frame_forward.png" />
+      <FilePathData Path="Image/IRoom/UIPlayerInfo/pi_Item0.png" />
+      <FilePathData Path="Image/IRoom/UIPlayerInfo/pi_Item1.png" />
+      <FilePathData Path="Image/IRoom/UIPlayerInfo/pi_Item2.png" />
+      <FilePathData Path="Image/IRoom/UIPlayerInfo/pi_Item3.png" />
+      <FilePathData Path="Image/IRoom/UIPlayerInfo/pi_Item4.png" />
+      <FilePathData Path="Image/IRoom/UIPlayerInfo/pi_item5.png" />
+      <FilePathData Path="Image/IRoom/UIPlayerInfo/pi_line.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

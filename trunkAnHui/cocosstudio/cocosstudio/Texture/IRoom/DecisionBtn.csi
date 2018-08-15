@@ -1,0 +1,17 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="DecisionBtn" Type="Plist" ID="a65975f3-ace9-435a-a1b8-6eb43d6cdfa8" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/IRoom/DecisionBtn/dec_bg_ting.png" />
+      <FilePathData Path="Image/IRoom/DecisionBtn/dec_bu.png" />
+      <FilePathData Path="Image/IRoom/DecisionBtn/dec_chi.png" />
+      <FilePathData Path="Image/IRoom/DecisionBtn/dec_gang.png" />
+      <FilePathData Path="Image/IRoom/DecisionBtn/dec_guo.png" />
+      <FilePathData Path="Image/IRoom/DecisionBtn/dec_hu.png" />
+      <FilePathData Path="Image/IRoom/DecisionBtn/dec_peng.png" />
+      <FilePathData Path="Image/IRoom/DecisionBtn/dec_ting.png" />
+      <FilePathData Path="Image/IRoom/DecisionBtn/dec_zimo.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

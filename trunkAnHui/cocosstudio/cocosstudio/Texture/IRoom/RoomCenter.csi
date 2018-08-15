@@ -1,0 +1,28 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="RoomCenter" Type="Plist" ID="0709efb9-029c-4611-831d-4e8b6d4d57ab" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/IRoom/RoomCenter/CenterBGRemainTile.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/CenterBGRoundIndex.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/CenterBtnCopyRoomID.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/CenterBtnInvert.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/CenterDirectBG.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/CenterDirectNoBG.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/CenterDirectTo.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/CenterGameLogo.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/BtnMsgBlue.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/BtnMsgGreen.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/BtnMsgPurple.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/BtnMsgRed.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/BtnVoiceBlueDown.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/BtnVoiceBlueNormal.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/BtnVoiceGreenDown.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/BtnVoiceGreenNormal.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/BtnVoicePurpleDown.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/BtnVoicePurpleNormal.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/BtnVoiceRedDown.png" />
+      <FilePathData Path="Image/IRoom/RoomCenter/BtnVoiceRedNormal.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,37 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="RoomTop" Type="Plist" ID="70e7832c-2d65-49cd-824a-c3fe077b51b5" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/IRoom/RoomTop/btnGameSetting.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/btnRuleDesc.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/btnRuleReturn.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/btnSettingReturn.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/HeadFlagFang.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/HeadFlagZhuang.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/HeadUIBG.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/RoomInfoBG.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/RoomTitleBG.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TitleAnQing.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TitleHuaiBei.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TopBtnDismissRoom.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TopBtnExitRoom.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TopBtnFZB.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TopBtnRepair.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TopBtnRule.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TopBtnRuleDisable.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TopBtnSetting.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TopBtnSettingDisable.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TopBtnTuoGuan.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TopRuleBG.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TopElecBG.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TopElecValue.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/game_wifi_signal0.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/game_wifi_signal1.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/game_wifi_signal2.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/game_wifi_signal3.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/game_wifi_signal4.png" />
+      <FilePathData Path="Image/IRoom/RoomTop/TitleDoudizhu.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

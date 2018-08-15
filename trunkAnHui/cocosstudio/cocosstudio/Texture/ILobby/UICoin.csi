@@ -1,0 +1,45 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UICoin" Type="Plist" ID="67090528-f340-444c-b4fc-f56777d813bd" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/ILobby/UICoin/bg_cloth_inside.png" />
+      <FilePathData Path="Image/ILobby/UICoin/bg_cloth_outside.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_btn_exchange.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_button_anqing_off.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_button_anqing_on.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_button_doudizhu_off.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_button_doudizhu_on.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_button_huaibei_off.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_button_huaibei_on.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_coin_bg.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_enter_chuji.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_enter_gaoji.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_enter_wait.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_enter_zhongji.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_exchange.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_exchange_1.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_exchange_2.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_exchange_3.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_exchange_4.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_exchange_5.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_exchange_6.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_fangka.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_plus.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_quickbegin.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_return.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_rule_anqing.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_rule_choose.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_rule_doudizhu.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_rule_huaibei.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_rule_title.png" />
+      <FilePathData Path="Image/ILobby/UICoin/Coin_shuoming.png" />
+      <FilePathData Path="Image/ILobby/UICoin/comm_btn_closenew.png" />
+      <FilePathData Path="Image/ILobby/UICoin/comm_btn_green.png" />
+      <FilePathData Path="Image/ILobby/UICoin/comm_btn_red.png" />
+      <FilePathData Path="Image/ILobby/UICoin/comm_cloth_top.png" />
+      <FilePathData Path="Image/ILobby/UICoin/comm_top_tips.png" />
+      <FilePathData Path="Image/ILobby/UICoin/comm_top_cloud.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

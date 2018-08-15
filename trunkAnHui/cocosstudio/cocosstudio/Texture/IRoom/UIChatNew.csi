@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UIChatNew" Type="Plist" ID="97a1206b-6cac-4a77-92bc-7a31963fac1e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/IRoom/UIChatNew/btnChat1.png" />
+      <FilePathData Path="Image/IRoom/UIChatNew/btnChat2.png" />
+      <FilePathData Path="Image/IRoom/UIChatNew/btnCYY1.png" />
+      <FilePathData Path="Image/IRoom/UIChatNew/btnCYY2.png" />
+      <FilePathData Path="Image/IRoom/UIChatNew/btnExp1.png" />
+      <FilePathData Path="Image/IRoom/UIChatNew/btnExp2.png" />
+      <FilePathData Path="Image/IRoom/UIChatNew/btnSendChat.png" />
+      <FilePathData Path="Image/IRoom/UIChatNew/ChatBG.png" />
+      <FilePathData Path="Image/IRoom/UIChatNew/ChatLine.png" />
+      <FilePathData Path="Image/IRoom/UIChatNew/ChatInputBG.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

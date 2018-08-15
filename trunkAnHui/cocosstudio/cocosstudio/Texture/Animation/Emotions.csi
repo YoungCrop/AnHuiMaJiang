@@ -1,0 +1,75 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Emotions" Type="Plist" ID="a66301c2-1ae3-4022-9365-35b9e6e34d00" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_duration1.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_end1.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_end2.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_end3.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_end4.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_end5.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_end6.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_end7.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_end8.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_start1.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_start2.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_start3.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_start4.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_start5.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion1_start6.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion2_duration1.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion2_duration2.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion2_end1.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion2_end2.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion2_end3.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion2_end4.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion2_end5.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion2_end6.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion2_end7.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion2_start1.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion2_start2.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion2_start3.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion2_start4.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion2_start5.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion3_duration1.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion3_duration2.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion3_duration3.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion3_duration4.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion3_end1.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion3_end2.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion3_end3.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion3_end4.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion3_end5.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion3_end6.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion3_end7.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion3_end8.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion3_end9.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion4_duration1.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion4_end1.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion4_end2.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion4_end3.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion4_end4.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion4_end5.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion4_end6.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion4_start1.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion4_start2.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion4_start3.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion4_start4.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion4_start5.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion5_duration1.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion5_end01.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion5_end02.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion5_end03.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion5_end04.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion5_end05.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion5_end06.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion5_end07.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion5_end08.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion5_end09.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion5_end10.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion5_end11.png" />
+      <FilePathData Path="Image/Animation/Emotions/Emotion5_end12.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,33 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Club" Type="Plist" ID="507f3152-8726-4618-aab0-ed9bd8e89d02" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/ILobby/Club/bg_club_title.png" />
+      <FilePathData Path="Image/ILobby/Club/bg_item_club.png" />
+      <FilePathData Path="Image/ILobby/Club/bg_item_record.png" />
+      <FilePathData Path="Image/ILobby/Club/bg_top_club_member.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_apply_join.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_cjmj.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_cjpk.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_club_switch.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_create_atonce.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_create_club.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_date_change.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_enter.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_join_club.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_join_room.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_quit_club.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_record.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_record_select.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_record_view.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_reflash.png" />
+      <FilePathData Path="Image/ILobby/Club/club_head_default.png" />
+      <FilePathData Path="Image/ILobby/Club/title_club.png" />
+      <FilePathData Path="Image/ILobby/Club/title_club_record.png" />
+      <FilePathData Path="Image/ILobby/Club/title_join_club.png" />
+      <FilePathData Path="Image/ILobby/Club/title_my_club.png" />
+      <FilePathData Path="Image/ILobby/Club/btn_create_quickcreate.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

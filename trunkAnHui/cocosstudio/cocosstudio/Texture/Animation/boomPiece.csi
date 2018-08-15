@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="boomPiece" Type="Plist" ID="1915ce54-6910-4945-aabf-f9ab1e698680" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/Animation/boomPiece/boomPiece1.png" />
+      <FilePathData Path="Image/Animation/boomPiece/boomPiece2.png" />
+      <FilePathData Path="Image/Animation/boomPiece/boomPiece3.png" />
+      <FilePathData Path="Image/Animation/boomPiece/boomPiece4.png" />
+      <FilePathData Path="Image/Animation/boomPiece/boomPiece5.png" />
+      <FilePathData Path="Image/Animation/boomPiece/boomPiece6.png" />
+      <FilePathData Path="Image/Animation/boomPiece/boomPiece7.png" />
+      <FilePathData Path="Image/Animation/boomPiece/boomPiece8.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,10 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="GameHuaiBei" Type="Plist" ID="d4eaa1b9-a9a9-46d4-8cbd-11182fec1b85" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/GameSub/GameHuaiBei/hb_choosen.png" />
+      <FilePathData Path="Image/GameSub/GameHuaiBei/hb_unchoosen.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="256" />
+  </Content>
+</PlistInfoProjectFile>

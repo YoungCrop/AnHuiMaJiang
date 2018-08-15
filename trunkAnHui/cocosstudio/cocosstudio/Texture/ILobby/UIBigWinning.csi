@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UIBigWinning" Type="Plist" ID="8623cf71-336d-46db-ba03-76e5e72f91ba" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/ILobby/UIBigWinning/btn_rule.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/btn_sign_out.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/btn_sign_up.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/btn_sign_up_disable.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/btn_winning_list.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/btnCopy.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/icon_bg_input.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/icon_champion.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/icon_hongbao.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/icon_line.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/title_big_game.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/title_certificate.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/title_game_rule.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/title_winning_list.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/icon_seal_mj.png" />
+      <FilePathData Path="Image/ILobby/UIBigWinning/icon_seal_poker.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

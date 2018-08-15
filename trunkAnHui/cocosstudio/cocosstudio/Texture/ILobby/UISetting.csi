@@ -1,0 +1,27 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UISetting" Type="Plist" ID="25099d91-1c30-4e5c-82af-d3f497c35000" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/ILobby/UISetting/setting_btn_dismiss.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_btn_exit.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_btn_voice_close.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_btn_voice_open.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_check_normal.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_check_select.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_cloth_1.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_cloth_2.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_cloth_3.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_cloth_4.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_cloth_selected.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_slider_bar.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_slider_bg.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_slider_move.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_title.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_btn_fang.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_btn_relogin.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_txt_fang.png" />
+      <FilePathData Path="Image/ILobby/UISetting/setting_btn_exit_room.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

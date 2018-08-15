@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UIVoice" Type="Plist" ID="1f05e16a-2629-4c77-933e-cbc14be1a6f2" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/IRoom/UIVoice/voice_bg.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_btn_play_down.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_btn_play_up.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_message.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_play_1.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_play_2.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_play_3.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_play_bg.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_play_tip.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_txt_tip_cancel.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_value_1.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_value_2.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_value_3.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_value_4.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_value_5.png" />
+      <FilePathData Path="Image/IRoom/UIVoice/voice_value_6.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

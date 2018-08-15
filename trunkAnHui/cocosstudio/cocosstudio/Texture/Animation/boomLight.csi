@@ -1,0 +1,22 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="boomLight" Type="Plist" ID="f42e4b46-8160-4908-bb7a-b59844baf4a1" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/Animation/boomLight/light01.png" />
+      <FilePathData Path="Image/Animation/boomLight/light02.png" />
+      <FilePathData Path="Image/Animation/boomLight/light03.png" />
+      <FilePathData Path="Image/Animation/boomLight/light04.png" />
+      <FilePathData Path="Image/Animation/boomLight/light05.png" />
+      <FilePathData Path="Image/Animation/boomLight/light06.png" />
+      <FilePathData Path="Image/Animation/boomLight/light07.png" />
+      <FilePathData Path="Image/Animation/boomLight/light08.png" />
+      <FilePathData Path="Image/Animation/boomLight/light09.png" />
+      <FilePathData Path="Image/Animation/boomLight/light10.png" />
+      <FilePathData Path="Image/Animation/boomLight/light11.png" />
+      <FilePathData Path="Image/Animation/boomLight/light12.png" />
+      <FilePathData Path="Image/Animation/boomLight/light13.png" />
+      <FilePathData Path="Image/Animation/boomLight/light14.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

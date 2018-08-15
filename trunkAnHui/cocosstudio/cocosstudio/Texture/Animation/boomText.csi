@@ -1,0 +1,42 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="boomText" Type="Plist" ID="4fb7628d-859c-4d15-93f8-210d48f560e3" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/Animation/boomText/text01.png" />
+      <FilePathData Path="Image/Animation/boomText/text02.png" />
+      <FilePathData Path="Image/Animation/boomText/text03.png" />
+      <FilePathData Path="Image/Animation/boomText/text04.png" />
+      <FilePathData Path="Image/Animation/boomText/text05.png" />
+      <FilePathData Path="Image/Animation/boomText/text06.png" />
+      <FilePathData Path="Image/Animation/boomText/text07.png" />
+      <FilePathData Path="Image/Animation/boomText/text08.png" />
+      <FilePathData Path="Image/Animation/boomText/text09.png" />
+      <FilePathData Path="Image/Animation/boomText/text10.png" />
+      <FilePathData Path="Image/Animation/boomText/text11.png" />
+      <FilePathData Path="Image/Animation/boomText/text12.png" />
+      <FilePathData Path="Image/Animation/boomText/text13.png" />
+      <FilePathData Path="Image/Animation/boomText/text14.png" />
+      <FilePathData Path="Image/Animation/boomText/text15.png" />
+      <FilePathData Path="Image/Animation/boomText/text16.png" />
+      <FilePathData Path="Image/Animation/boomText/text17.png" />
+      <FilePathData Path="Image/Animation/boomText/text18.png" />
+      <FilePathData Path="Image/Animation/boomText/text19.png" />
+      <FilePathData Path="Image/Animation/boomText/text20.png" />
+      <FilePathData Path="Image/Animation/boomText/text21.png" />
+      <FilePathData Path="Image/Animation/boomText/text22.png" />
+      <FilePathData Path="Image/Animation/boomText/text23.png" />
+      <FilePathData Path="Image/Animation/boomText/text24.png" />
+      <FilePathData Path="Image/Animation/boomText/text25.png" />
+      <FilePathData Path="Image/Animation/boomText/text26.png" />
+      <FilePathData Path="Image/Animation/boomText/text27.png" />
+      <FilePathData Path="Image/Animation/boomText/text28.png" />
+      <FilePathData Path="Image/Animation/boomText/text29.png" />
+      <FilePathData Path="Image/Animation/boomText/text30.png" />
+      <FilePathData Path="Image/Animation/boomText/text31.png" />
+      <FilePathData Path="Image/Animation/boomText/text32.png" />
+      <FilePathData Path="Image/Animation/boomText/text33.png" />
+      <FilePathData Path="Image/Animation/boomText/text34.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

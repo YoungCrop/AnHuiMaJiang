@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="CommonLobby" Type="Plist" ID="ab35f379-9953-404b-85d7-df9ef43ae525" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/ILobby/CommonLobby/bg_cloth_up1.png" />
+      <FilePathData Path="Image/ILobby/CommonLobby/bg_cloth_up2.png" />
+      <FilePathData Path="Image/ILobby/CommonLobby/btn_check_bg.png" />
+      <FilePathData Path="Image/ILobby/CommonLobby/btn_check_select.png" />
+      <FilePathData Path="Image/ILobby/CommonLobby/btn_choose_normal.png" />
+      <FilePathData Path="Image/ILobby/CommonLobby/btn_choose_select.png" />
+      <FilePathData Path="Image/ILobby/CommonLobby/btn_comm_plus.png" />
+      <FilePathData Path="Image/ILobby/CommonLobby/btn_comm_reduce.png" />
+      <FilePathData Path="Image/ILobby/CommonLobby/com_avator_man.png" />
+      <FilePathData Path="Image/ILobby/CommonLobby/com_frame_forward.png" />
+      <FilePathData Path="Image/ILobby/CommonLobby/comm_btn_close.png" />
+      <FilePathData Path="Image/ILobby/CommonLobby/comm_btn_ok.png" />
+      <FilePathData Path="Image/ILobby/UILobby/btn_copy_gzh.png" />
+      <FilePathData Path="Image/ILobby/CommonLobby/comm_red_dot.png" />
+      <FilePathData Path="Image/ILobby/CommonLobby/bg_cloth_inside.png" />
+      <FilePathData Path="Image/ILobby/CommonLobby/bg_cloth_outside.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

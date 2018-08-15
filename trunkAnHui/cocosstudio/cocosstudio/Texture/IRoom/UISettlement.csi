@@ -1,0 +1,28 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UISettlement" Type="Plist" ID="020f8c94-4ea3-479f-9633-bc237c97fb1a" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_bg_item.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_bg_item_final.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_btn_copy.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_btn_detail.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_btn_next.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_btn_over.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_btn_share.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_btn_single.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_icon_banker.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_icon_big_failer.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_icon_big_winner.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_icon_hu.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_line_h.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_line_z.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_title_end.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_title_fail.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_title_tie.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_title_win.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_txt_total_score.png" />
+      <FilePathData Path="Image/IRoom/UISettlement/settlement_btn_next2.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

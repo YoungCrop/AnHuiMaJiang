@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="UIDistance" Type="Plist" ID="a50a450c-187d-4411-a6da-4e44ec572088" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Image/IRoom/UIDistance/distance_btn_ok.png" />
+      <FilePathData Path="Image/IRoom/UIDistance/distance_dot_blue.png" />
+      <FilePathData Path="Image/IRoom/UIDistance/distance_dot_green.png" />
+      <FilePathData Path="Image/IRoom/UIDistance/distance_dot_purple.png" />
+      <FilePathData Path="Image/IRoom/UIDistance/distance_dot_red.png" />
+      <FilePathData Path="Image/IRoom/UIDistance/distance_dot_yellow.png" />
+      <FilePathData Path="Image/IRoom/UIDistance/distance_head_fream.png" />
+      <FilePathData Path="Image/IRoom/UIDistance/distance_icon_warning.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
