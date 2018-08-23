@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:34
+-keep class com.alibaba.mtl.appmonitor.AppMonitorService { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.alibaba.sdk.android.feedback.impl.ErrorPageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.alibaba.sdk.android.feedback.util.FBFileProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:20
+-keep class com.alibaba.sdk.android.feedback.windvane.CustomHybirdActivity { <init>(...); }
+

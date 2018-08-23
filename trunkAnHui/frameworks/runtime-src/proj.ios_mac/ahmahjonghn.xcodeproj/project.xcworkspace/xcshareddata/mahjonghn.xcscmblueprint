@@ -1,0 +1,35 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3f203d07-dcd2-a842-af09-740d792e406d",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "3f203d07-dcd2-a842-af09-740d792e406d" : {
+
+    },
+    "f09438b9-057a-ea42-95c6-dde7d78b3900" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3f203d07-dcd2-a842-af09-740d792e406d" : 0,
+    "f09438b9-057a-ea42-95c6-dde7d78b3900" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5D00D71E-6BC1-42AD-A8BB-4DAE126DBC88",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3f203d07-dcd2-a842-af09-740d792e406d" : "jxnc2\/",
+    "f09438b9-057a-ea42-95c6-dde7d78b3900" : "MJSvn\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "mahjonghn",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/frameworks\/runtime-src\/proj.ios_mac\/mahjonghn.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.10.128\/svn\/client_nc",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3f203d07-dcd2-a842-af09-740d792e406d"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/120.27.245.220\/svn\/client_nc",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f09438b9-057a-ea42-95c6-dde7d78b3900"
+    }
+  ]
+}
