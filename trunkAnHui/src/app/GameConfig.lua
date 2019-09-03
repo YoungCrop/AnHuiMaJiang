@@ -13,7 +13,7 @@ m.ServerTypeKey = {
 	sLaoDuDev  = 6,
 	sInnerMe   = 7,
 }
-m.CurServerIndex = m.ServerTypeKey.sDis
+m.CurServerIndex = m.ServerTypeKey.sInnerMe
 
 m.ServerTypeEnum = {
 --key--{index,iOS提审,调试模式,打印,}
@@ -37,7 +37,7 @@ m.debugServer = {
 	[m.ServerTypeKey.sTestInner] = {sName = "内网测试服", ip = "10.100.12.14", port = "5055",
 		versionUrl = "https://anhui.yongwuzhijing88.com:443/YwZj_2017/AnHui/version.manifest"},
 	[m.ServerTypeKey.sLaoDuDev ] = {sName = "开发服老杜", ip = "10.100.1.39",  port = "5055",versionUrl = nil},
-	[m.ServerTypeKey.sInnerMe]   = {sName = "内网测试服Me", ip = "10.100.12.14", port = "5055",
+	[m.ServerTypeKey.sInnerMe]   = {sName = "内网测试服Me", ip = "127.0.0.1", port = "5001",
 		versionUrl = "https://anhui.yongwuzhijing88.com:443/YwZj_2017/AnHui/version.manifest"},
 
 }

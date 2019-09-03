@@ -120,7 +120,7 @@ function m:sendMessage(msgTbl)
 
 	local curTime = os.time()
 	local time = self:luaToCByInt(curTime)
-	local msgId = self:luaToCByInt(msgTbl.m_msgId * ((curTime % 1788) + 1))
+	local msgId = self:luaToCByInt(msgTbl.m_msgId * ((curTime % 10000) + 1))
 	local checksum = self:getCheckSum(time .. msgId, msgLength, msgPackData)
 	local msgToSend = len .. checksum .. time .. msgId .. msgPackData
 

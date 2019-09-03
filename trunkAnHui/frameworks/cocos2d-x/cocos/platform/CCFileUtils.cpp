@@ -43,7 +43,7 @@ THE SOFTWARE.
 
 // android doesn't have ftw.h
 #if (CC_TARGET_PLATFORM != CC_PLATFORM_ANDROID)
-#include <ftw.h>
+//#include <ftw.h>
 #endif
 
 

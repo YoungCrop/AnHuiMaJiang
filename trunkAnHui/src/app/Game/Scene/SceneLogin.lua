@@ -501,6 +501,7 @@ function m:sendRealLogin( accessToken, refreshToken, openid, sex, nickname, head
 	msgToSend.m_nikename = nickname
 	msgToSend.m_imageUrl = headimgurl
 	msgToSend.m_uuid = unionid
+	msgToSend.m_nAppId =17002
 	
 	dump(msgToSend.m_imageUrl,"m_imageUrl")
 
@@ -668,7 +669,8 @@ function m:onBtnClick( _sender )
 		msgToSend.m_nike = nickname
 		msgToSend.m_sign = 123987
 		msgToSend.m_plate = "local"
-		msgToSend.m_severID = 13001
+		msgToSend.m_severID = 17002
+		msgToSend.m_nAppId =17002
 
 
 		msgToSend.m_uuid = msgToSend.m_openId
@@ -731,7 +733,7 @@ function m:reqVersionFileHandle(jsonStr)
 	dump(jsonStr,"reqVersionFileHandle---VersionManifest")
 	local localVersion = gComm.FunUtils.getResVersion()
 	local versionRet = gComm.StringUtils.compareVersion(jsonStr.version, localVersion)
-	if versionRet == 1 then--要更新
+	if versionRet == 0 then--要更新
 		UINoticeTips:create(ConfigTxtTip.GetConfigTxt("LTKey_0061"),
 		function()
 			require("app.Game.Scene.SceneManager").goSceneUpdate()

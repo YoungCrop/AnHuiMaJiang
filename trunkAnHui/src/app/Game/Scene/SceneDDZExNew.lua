@@ -5016,6 +5016,7 @@ function m:reLogin()
 	msgToSend.m_sex = tonumber(sex)
 	msgToSend.m_nikename = nickname
 	msgToSend.m_imageUrl = headimgurl
+	msgToSend.m_nAppId =17002
 
 
 	if gGameConfig.CurServerIndex == gGameConfig.ServerTypeKey.sIOSInReview or

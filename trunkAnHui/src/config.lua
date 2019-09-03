@@ -1,7 +1,7 @@
 
 
 -- 0 正式版本 1测试版本（只弹错误提示） 2开发版本（所有错误信息)
-DEBUG = 0
+DEBUG = 2
 
 -- use framework, will disable all deprecated API, false - use legacy API
 CC_USE_FRAMEWORK = true
