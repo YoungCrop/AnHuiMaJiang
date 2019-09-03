@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Image/Animation/boomLight/light01.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{961,294},{86,31}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{86,31}</string>
+			</dict>
+			<key>Image/Animation/boomLight/light02.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{167,730},{156,65}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{156,65}</string>
+			</dict>
+			<key>Image/Animation/boomLight/light03.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{864,294},{224,97}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{224,97}</string>
+			</dict>
+			<key>Image/Animation/boomLight/light04.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{864,0},{294,139}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{294,139}</string>
+			</dict>
+			<key>Image/Animation/boomLight/light05.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,434},{364,167}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{364,167}</string>
+			</dict>
+			<key>Image/Animation/boomLight/light06.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,237},{432,197}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{432,197}</string>
+			</dict>
+			<key>Image/Animation/boomLight/light07.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{432,223},{432,211}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{432,211}</string>
+			</dict>
+			<key>Image/Animation/boomLight/light08.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{432,0},{432,223}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{432,223}</string>
+			</dict>
+			<key>Image/Animation/boomLight/light09.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{432,237}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{432,237}</string>
+			</dict>
+			<key>Image/Animation/boomLight/light10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{167,518},{212,203}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{212,203}</string>
+			</dict>
+			<key>Image/Animation/boomLight/light11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{370,434},{196,187}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{196,187}</string>
+			</dict>
+			<key>Image/Animation/boomLight/light12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,798},{214,205}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{214,205}</string>
+			</dict>
+			<key>Image/Animation/boomLight/light13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{205,795},{212,203}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{212,203}</string>
+			</dict>
+			<key>Image/Animation/boomLight/light14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{370,630},{172,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{172,119}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>boomLight.png</string>
+			<key>realTextureFileName</key>
+			<string>boomLight.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

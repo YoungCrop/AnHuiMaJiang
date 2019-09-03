@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Image/Animation/LobbyGirl/effect_dt_girl_01_ah.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{49,941},{19,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{19,23}</string>
+			</dict>
+			<key>Image/Animation/LobbyGirl/effect_dt_girl_02_ah.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,941},{24,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{24,54}</string>
+			</dict>
+			<key>Image/Animation/LobbyGirl/effect_dt_girl_03_ah.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{306,122},{133,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{133,104}</string>
+			</dict>
+			<key>Image/Animation/LobbyGirl/effect_dt_girl_04_ah.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{306,1},{125,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{125,119}</string>
+			</dict>
+			<key>Image/Animation/LobbyGirl/effect_dt_girl_05_ah.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,920},{19,149}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{19,149}</string>
+			</dict>
+			<key>Image/Animation/LobbyGirl/effect_dt_girl_06_ah.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{303,612}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{303,612}</string>
+			</dict>
+			<key>Image/Animation/LobbyGirl/effect_dt_girl_07_ah.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{615,1},{269,360}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{269,360}</string>
+			</dict>
+			<key>Image/Animation/LobbyGirl/effect_dt_girl_light_01_ah.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{441,122},{107,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{107,107}</string>
+			</dict>
+			<key>Image/Animation/LobbyGirl/effect_dt_huaban_1_ah.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{27,941},{20,39}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{20,39}</string>
+			</dict>
+			<key>Image/Animation/LobbyGirl/effect_dt_huaban_2_ah.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,997},{18,67}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{18,67}</string>
+			</dict>
+			<key>Image/Animation/LobbyGirl/effect_dt_girl_04_check.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{433,1},{125,119}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{125,119}</string>
+			</dict>
+			<key>Image/Animation/LobbyGirl/effect_dt_girl_06_check.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,615},{303,612}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{303,612}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>LobbyGirl.png</string>
+			<key>realTextureFileName</key>
+			<string>LobbyGirl.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

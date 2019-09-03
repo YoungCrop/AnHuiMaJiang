@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Image/IRoom/RoomCenter/CenterBGRemainTile.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,817},{159,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{159,54}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/CenterBGRoundIndex.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{57,817},{159,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{159,54}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/CenterBtnCopyRoomID.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,527},{235,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{235,73}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/CenterBtnInvert.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,289},{236,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{236,73}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/CenterDirectBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{142,142}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{142,142}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/CenterDirectNoBG.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,145},{142,142}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{142,142}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/CenterDirectTo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,817},{126,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{126,51}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/CenterGameLogo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,764},{321,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{321,51}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/BtnMsgBlue.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{113,945},{78,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,78}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/BtnMsgGreen.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{166,817},{78,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,78}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/BtnMsgPurple.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{193,897},{78,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,78}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/BtnMsgRed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{246,817},{78,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,78}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/BtnVoiceBlueDown.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{273,897},{78,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,78}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/BtnVoiceBlueNormal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{76,289},{78,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,78}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/BtnVoiceGreenDown.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{145,1},{78,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,78}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/BtnVoiceGreenNormal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{145,81},{78,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,78}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/BtnVoicePurpleDown.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{145,161},{78,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,78}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/BtnVoicePurpleNormal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{76,369},{78,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,78}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/BtnVoiceRedDown.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{76,449},{78,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,78}</string>
+			</dict>
+			<key>Image/IRoom/RoomCenter/BtnVoiceRedNormal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{76,529},{78,78}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{78,78}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>RoomCenter.png</string>
+			<key>realTextureFileName</key>
+			<string>RoomCenter.png</string>
+			<key>size</key>
+			<string>{512,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

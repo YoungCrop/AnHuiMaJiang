@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Image/ILobby/UIAgentRoom/agent_bg_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{251,1},{346,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{346,77}</string>
+			</dict>
+			<key>Image/ILobby/UIAgentRoom/agent_bg_item.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{248,195}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{248,195}</string>
+			</dict>
+			<key>Image/ILobby/UIAgentRoom/agent_btn_completed.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{812,1},{171,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{171,60}</string>
+			</dict>
+			<key>Image/ILobby/UIAgentRoom/agent_btn_copy_roomID.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{697,71},{157,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{157,54}</string>
+			</dict>
+			<key>Image/ILobby/UIAgentRoom/agent_btn_dissolve.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{753,71},{157,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{157,54}</string>
+			</dict>
+			<key>Image/ILobby/UIAgentRoom/agent_btn_invite.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{809,125},{157,54}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{157,54}</string>
+			</dict>
+			<key>Image/ILobby/UIAgentRoom/agent_btn_join.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{968,125},{157,53}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{157,53}</string>
+			</dict>
+			<key>Image/ILobby/UIAgentRoom/agent_btn_record.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{812,63},{171,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{171,60}</string>
+			</dict>
+			<key>Image/ILobby/UIAgentRoom/agent_btn_refersh.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{809,181},{53,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,49}</string>
+			</dict>
+			<key>Image/ILobby/UIAgentRoom/agent_icon_head.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{599,71},{96,96}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{96,96}</string>
+			</dict>
+			<key>Image/ILobby/UIAgentRoom/agent_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{599,1},{211,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{211,68}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>UIAgentRoom.png</string>
+			<key>realTextureFileName</key>
+			<string>UIAgentRoom.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

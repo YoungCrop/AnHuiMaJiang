@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Image/Animation/boomPiece/boomPiece1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{107,0},{46,30}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,30}</string>
+			</dict>
+			<key>Image/Animation/boomPiece/boomPiece2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{64,0},{43,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{43,34}</string>
+			</dict>
+			<key>Image/Animation/boomPiece/boomPiece3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{292,0},{26,20}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{26,20}</string>
+			</dict>
+			<key>Image/Animation/boomPiece/boomPiece4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{64,49}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{64,49}</string>
+			</dict>
+			<key>Image/Animation/boomPiece/boomPiece5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{261,0},{31,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{31,23}</string>
+			</dict>
+			<key>Image/Animation/boomPiece/boomPiece6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{153,0},{30,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{30,43}</string>
+			</dict>
+			<key>Image/Animation/boomPiece/boomPiece7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{234,0},{27,27}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{27,27}</string>
+			</dict>
+			<key>Image/Animation/boomPiece/boomPiece8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{196,0},{30,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{30,38}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>boomPiece.png</string>
+			<key>realTextureFileName</key>
+			<string>boomPiece.png</string>
+			<key>size</key>
+			<string>{512,64}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>64</integer>
+		</dict>
+	</dict>
+</plist>

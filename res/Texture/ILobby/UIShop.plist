@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Image/ILobby/UIShop/shop_bg_item.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,342},{272,324}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{272,324}</string>
+			</dict>
+			<key>Image/ILobby/UIShop/shop_btn_buy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,941},{181,62}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{181,62}</string>
+			</dict>
+			<key>Image/ILobby/UIShop/shop_btn_copy.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{229,926},{56,37}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{56,37}</string>
+			</dict>
+			<key>Image/ILobby/UIShop/shop_fangka_more.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,668},{152,142}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{152,142}</string>
+			</dict>
+			<key>Image/ILobby/UIShop/shop_fangka_one.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{119,822},{118,102}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{118,102}</string>
+			</dict>
+			<key>Image/ILobby/UIShop/shop_fangka_two.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,822},{116,117}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{116,117}</string>
+			</dict>
+			<key>Image/ILobby/UIShop/shop_item_select.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{305,339}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{305,339}</string>
+			</dict>
+			<key>Image/ILobby/UIShop/shop_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{184,926},{79,43}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{79,43}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>UIShop.png</string>
+			<key>realTextureFileName</key>
+			<string>UIShop.png</string>
+			<key>size</key>
+			<string>{512,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

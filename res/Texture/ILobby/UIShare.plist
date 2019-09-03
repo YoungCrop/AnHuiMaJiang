@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Image/ILobby/UIShare/share_btn_pyq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{127,1},{114,113}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{114,113}</string>
+			</dict>
+			<key>Image/ILobby/UIShare/share_btn_qq.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,103},{98,107}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{98,107}</string>
+			</dict>
+			<key>Image/ILobby/UIShare/share_btn_qq_zone.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,107},{112,105}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{112,105}</string>
+			</dict>
+			<key>Image/ILobby/UIShare/share_btn_weibo.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{243,1},{113,100}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{113,100}</string>
+			</dict>
+			<key>Image/ILobby/UIShare/share_btn_weixin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{124,104}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{124,104}</string>
+			</dict>
+			<key>Image/ILobby/UIShare/share_btn_zfb.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{358,1},{103,103}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{103,103}</string>
+			</dict>
+			<key>Image/ILobby/UIShare/share_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{115,116},{110,52}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{110,52}</string>
+			</dict>
+			<key>Image/ILobby/UIShare/share_icon_jiang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{115,170},{46,46}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{46,46}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>UIShare.png</string>
+			<key>realTextureFileName</key>
+			<string>UIShare.png</string>
+			<key>size</key>
+			<string>{512,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

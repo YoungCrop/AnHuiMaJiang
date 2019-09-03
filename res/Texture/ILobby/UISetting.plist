@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Image/ILobby/UISetting/setting_btn_dismiss.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{605,1},{238,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{238,82}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_btn_exit.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,37},{246,73}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{246,73}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_btn_voice_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{199,287},{40,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{40,44}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_btn_voice_open.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{199,329},{40,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{40,44}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_check_normal.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{199,199},{44,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,42}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_check_select.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{199,243},{44,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{44,42}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_cloth_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,112},{123,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{123,71}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_cloth_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{126,112},{123,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{123,71}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_cloth_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,185},{123,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{123,71}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_cloth_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{126,237},{123,71}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{123,71}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_cloth_selected.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{71,258},{39,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{39,38}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_slider_bar.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{249,37},{436,29}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{436,29}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_slider_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{602,34}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{602,34}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_slider_move.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,258},{63,68}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{63,68}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{199,112},{85,40}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{85,40}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_btn_fang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,323},{54,60}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,60}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_btn_relogin.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{845,1},{238,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{238,82}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_txt_fang.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{71,298},{56,23}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{56,23}</string>
+			</dict>
+			<key>Image/ILobby/UISetting/setting_btn_exit_room.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{929,1},{238,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{238,82}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>UISetting.png</string>
+			<key>realTextureFileName</key>
+			<string>UISetting.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>
