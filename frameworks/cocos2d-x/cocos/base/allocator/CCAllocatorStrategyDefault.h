@@ -30,6 +30,8 @@
 #include "base/allocator/CCAllocatorMacros.h"
 #include "base/allocator/CCAllocatorBase.h"
 
+#include <stdlib.h>
+
 NS_CC_BEGIN
 NS_CC_ALLOCATOR_BEGIN
 

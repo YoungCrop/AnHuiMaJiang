@@ -1,7 +1,11 @@
 APP_STL := gnustl_static
+APP_PLATFORM := android-23
 
 APP_CPPFLAGS := -frtti -DCC_ENABLE_CHIPMUNK_INTEGRATION=1 -std=c++11 -fsigned-char
 APP_LDFLAGS := -latomic
+APP_ABI := armeabi-v7a
+APP_ALLOW_MISSING_DEPS=true
+LOCAL_ALLOW_UNDEFINED_SYMBOLS := true
 
 
 ifeq ($(NDK_DEBUG),1)

@@ -38,6 +38,8 @@
 #include "base/allocator/CCAllocatorGlobal.h"
 #include "base/allocator/CCAllocatorStrategyFixedBlock.h"
 
+#include <memory.h>
+
 NS_CC_BEGIN
 NS_CC_ALLOCATOR_BEGIN
 
